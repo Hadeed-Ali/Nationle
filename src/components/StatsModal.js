@@ -49,7 +49,7 @@ function StatsModal({ onClose, lastResult }) {
     const pts     = lastResult?.points    ?? todayEntry?.points    ?? '?';
     const hints   = lastResult?.hintsUsed  ?? todayEntry?.hintsUsed  ?? '?';
     const guesses = lastResult?.guessCount ?? todayEntry?.guessCount ?? '?';
-    const text = `Nationle ${BETA_LABEL} 🌍 | Score: ${pts}pts | Hints: ${hints}, Guesses: ${guesses} | LINK TO BE ADDED`;
+    const text = `Nationle ${BETA_LABEL} 🌍 | Score: ${pts}pts | Hints: ${hints}, Guesses: ${guesses} | https://nationle.vercel.app/`;
 
     // Upon completion, setCopied is set to True so the button can be changed to "Copied to clipboard!", appearing for 2000ms / 2 seconds
     navigator.clipboard?.writeText(text);
