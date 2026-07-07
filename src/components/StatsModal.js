@@ -104,7 +104,7 @@ function StatsModal({ onClose, lastResult }) {
             {stats.scoreDistribution.map((count, i) => {
               const isCurrent = currentBucket === i;
 
-              {/* Scales the bar as a percentage of the tallest bar, so the bars are proportional relative to accumulation */}
+              // Scales the bar as a percentage of the tallest bar, so the bars are proportional relative to accumulation
               const pct = count === 0 ? 6 : Math.max(8, Math.round((count / maxDist) * 100));
               return (
                 <div key={i} className="stats__dist-row">
