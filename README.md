@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# Nationle
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A daily geography guessing game, similar in style to Wordle. Each day there is one country to figure out, which is accomplished through revealing hints or making guesses at the cost of points.
 
-## Available Scripts
+Built with React. No backend is present, as the whole thing runs client-side, with your personal statistics and progress saved to `localStorage`.
 
-In the project directory, you can run:
+## How it works
 
-### `npm start`
+Each puzzle gives you a country to identify. You start with one hint on the board and can either:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Reveal another hint** (costs points), or
+- **Take a guess** (costs point, unless a correct guess is made)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+In general, the hints start off pretty vague but become more specific as the game progresses. The first hints usually provide information on the flag or languages, with the last hints being dead giveaways or valuable information such as capital cities and notable landmarks. You start at 100 points and lose 10 per hint revealed and per wrong guess (20 if in Hardcore Mode). Everyone playing on a given day is given the same country, and it flips over to the next one at midnight (Eastern Standard Time / EST).
 
-### `npm test`
+In addition to the core gameplay experience, thre is also:
+- **Stats tracking** — win rate, average score, guess distribution, full game history
+- **A badge system** — nine badges for achivements such as your first win, achieving perfect score, or completing five daily puzzles
+- **A country card** - upon winning, showing the flag and a link to read more
+- **Autofill toggle** and **Hardcore Mode** (higher point penalties) as optional settings
+- **Light/dark theme**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech stack
 
-### `npm run build`
+- React (Create React App / `react-scripts`)
+- `react-simple-maps` for the decorative world map backdrop
+- Everything else is hand-rolled. No state management library, no CSS framework. Game state and stats are persistent through `localStorage`.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Project structure
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+src/
+  components/     UI components (GameBoard, modals, intro screen, header, etc.)
+  data/            countries.json, puzzles.json, badges.js: the game's actual content
+  utils/           schedule.js (which country plays on which day) and stats.js (scoring, stats, badges)
+scripts/
+  generateHints.js  offline script that generates the 6 hints for a country using Claude
+prompts/           prompt templates used by generateHints.js
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The puzzle schedule is a seeded shuffle of all 197 countries, so the order is fixed but not predictable, and nobody repeats a country until the full cycle is done. During opening/launch week, the countries might be picked out beforehand to improve the overall experience.
 
-### `npm run eject`
+## Running it locally
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm install
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Opens at `http://localhost:3000`. Standard CRA setup — `npm test` runs tests, `npm run build` builds for production.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Regenerating hint content
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Hints are generated offline (not at runtime) by `scripts/generateHints.js`, which calls the Anthropic API to write and verify each country's six hints against the project's difficulty curve and style rules. You won't need this unless you're editing the puzzle content itself:
 
-## Learn More
+```bash
+cp .env.example .env    # add your own ANTHROPIC_API_KEY
+node scripts/generateHints.js               # full run
+node scripts/generateHints.js --country=Japan   # regenerate a single country
+node scripts/generateHints.js --dry-run     # preview without writing
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The generation is resumable. That is, if it gets interrupted partway through the 197 countries, running it again picks up where it left off.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Status
 
-### Code Splitting
+This is a solo and personal project created by Hadeed Ali. The project is currently in Version 1.0 and early release, with updates expected in the future should the game proce to be succesful.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy!

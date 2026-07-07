@@ -1,0 +1,29 @@
+OVERVIEW: This was the prompt initially given to Claude to verify the uniqueness and accuracy of the hints it generated with the first prompt.
+
+PROMPT:
+You are fact-checking a geography puzzle. Below are 6 clues that should together uniquely identify exactly one country in the world.
+
+Your task: determine which real country or countries satisfy ALL 6 clues simultaneously.
+
+Clues:
+1. {{HINT_1}}
+2. {{HINT_2}}
+3. {{HINT_3}}
+4. {{HINT_4}}
+5. {{HINT_5}}
+6. {{HINT_6}}
+
+Instructions:
+  - Start with the broadest clue and list candidate countries.
+  - Apply each subsequent clue to eliminate candidates.
+  - Be rigorous — only keep countries that genuinely satisfy every clue.
+  - Consider all countries in the world, including small or less-famous ones.
+  - If a clue is ambiguous, note the ambiguity in your reasoning.
+
+Return ONLY valid JSON, no other text:
+{
+  "matching_countries": ["Country Name"],
+  "reasoning": "Step-by-step explanation of how you narrowed the candidates."
+}
+
+If multiple countries match all 6 clues, list all of them. If no country clearly matches, return an empty array.

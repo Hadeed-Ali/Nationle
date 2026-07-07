@@ -1,0 +1,2171 @@
+[
+
+  {
+  "//": "OVERVIEW: This file contains the six hints and/or puzzles for each of the nations available in the game.",
+  "//": "Country name is first, followed by a list containing all six hints arranged as they appear in game.",
+  "//": "Countries are are arranged alphabetically, ranging from Afghanistan to Zimbabwe.",
+  "//": "This JSON file is used by other files in the project to source hints for the main gameplay experience"
+  },
+
+  {
+    "country": "Afghanistan",
+    "hints": [
+      "Black, red, and green all appear on this country's flag.",
+      "Ancient Silk Road trade routes once passed directly through this land.",
+      "Entirely landlocked, this country has no access to any sea.",
+      "Both official languages here belong to the Iranian language branch.",
+      "The Hindu Kush mountain range dominates much of this nation's terrain.",
+      "Its capital city is Kabul, nestled within a high mountain valley."
+    ]
+  },
+  {
+    "country": "Albania",
+    "hints": [
+      "Red is the dominant colour on this country's flag.",
+      "A communist dictator once sealed this nation in near-total isolation.",
+      "An Indo-European language spoken here belongs to no other subfamily.",
+      "Four countries share a land border with this nation.",
+      "Hundreds of thousands of concrete bunkers dot this country's landscape.",
+      "Its capital city is Tirana, a vibrant Balkan urban hub."
+    ]
+  },
+  {
+    "country": "Algeria",
+    "hints": [
+      "Green and white appear prominently on this country's flag.",
+      "A long war of independence from colonial rule ended here in 1962.",
+      "Arabic is the primary official language spoken here.",
+      "This nation ranks in the top 10 for natural gas exporters worldwide.",
+      "Rai music, a genre born here, gained worldwide recognition.",
+      "Its capital city is Algiers, perched on the Mediterranean coast."
+    ]
+  },
+  {
+    "country": "Andorra",
+    "hints": [
+      "Blue and red appear prominently on this country's flag.",
+      "A bishop and an external president jointly serve as heads of state here.",
+      "This landlocked nation sits entirely within a mountain range.",
+      "Catalan is the sole official language of this small nation.",
+      "Fewer than 100,000 people live in this tiny sovereign state.",
+      "Its capital city is Andorra la Vella, the highest in Europe."
+    ]
+  },
+  {
+    "country": "Angola",
+    "hints": [
+      "Red and black both appear heavily on this country's flag.",
+      "A brutal civil war ravaged this nation from the 70's to the early 2000's.",
+      "A Romance language serves as the official tongue here.",
+      "This country uses the kwanza as its official currency.",
+      "Diamonds rank among the leading exports alongside vast petroleum reserves.",
+      "Its capital city is Luanda, a major Atlantic port."
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "hints": [
+      "Red appears prominently on this nation's flag.",
+      "Cricket is a deeply beloved sport in this nation.",
+      "Fewer than 110,000 people call this small nation home.",
+      "No land borders exist here, as it is entirely surrounded by sea.",
+      "It gained independence from Britain in nineteen eighty-one.",
+      "Its capital city is Saint John's, on the largest island."
+    ]
+  },
+  {
+    "country": "Argentina",
+    "hints": [
+      "This nation occupies a large stretch of the Southern Hemisphere.",
+      "Tango music and dance originated in the port cities of this nation.",
+      "A Romance language serves as the official tongue here.",
+      "Its western border runs along a long mountain range.",
+      "Three FIFA World Cup titles belong to this nation's football team.",
+      "Its capital city is Buenos Aires, a sprawling South American metropolis."
+    ]
+  },
+  {
+    "country": "Armenia",
+    "hints": [
+      "Red, blue, and orange appear on this country's national flag.",
+      "This country was the first in the world to adopt christianity as a state religion.",
+      "Entirely landlocked, this nation has no access to the sea.",
+      "Exactly four countries share a land border with this nation.",
+      "This country is famous for its chess obsession and players.",
+      "This country's capital is Yerevan, one of the world's oldest cities."
+    ]
+  },
+  {
+    "country": "Australia",
+    "hints": [
+      "This nation lies in the southern hemisphere.",
+      "Cricket is one of the most beloved sports played here.",
+      "A vast arid desert dominates much of the interior landscape.",
+      "This country shares no land borders with any other nation.",
+      "The world's largest coral reef system runs along its coast.",
+      "You can find the famous Sydney Opera House in this country."
+    ]
+  },
+  {
+    "country": "Austria",
+    "hints": [
+      "Red and white stripes appear on this nation's flag.",
+      "Classical music and opera have deep roots in this nation.",
+      "No ocean or sea coastline exists within this country's borders.",
+      "A Germanic language serves as the sole official tongue here.",
+      "This country is the birthplace of the famous Wolfgang Amadeus Mozart",
+      "Its capital city is Vienna, a historic imperial metropolis."
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "hints": [
+      "Blue, red, and green appear on this country's flag.",
+      "Ancient fire-worshipping traditions earned this land the nickname Land of Fire.",
+      "This nation is landlocked, though borders the caspian sea",
+      "A Turkic language serves as the official tongue here.",
+      "Oil wealth from the Caucasus region defines this nation's economy.",
+      "This country's capital is Baku, a city on the Caspian coast."
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "hints": [
+      "Aquamarine and gold appear prominently on this nation's flag.",
+      "Pirates once used these waters as a lawless haven for plunder.",
+      "Fewer than 500,000 people live across this archipelago nation.",
+      "English is the official language spoken throughout these islands.",
+      "Offshore banking and luxury tourism dominate this nation's economy.",
+      "This country's capital city is Nassau, on New Providence Island."
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "hints": [
+      "Red and white are the only colours on this country's flag.",
+      "Pearl diving shaped this nation's economy and culture for centuries.",
+      "An archipelago of islands makes up this entire nation's territory.",
+      "Islam is the dominant religion practiced across this nation.",
+      "This nation hosts a Formula One Grand Prix each year.",
+      "Its capital city is Manama, a skyline of modern towers."
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "hints": [
+      "Green and red feature prominently on this country's flag.",
+      "Independence was won through a liberation war in nineteen seventy-one.",
+      "Over 160 million people live within its borders.",
+      "This nation shares its longest border with India.",
+      "It ranks among the world's top garment exporting nations.",
+      "This country's capital is Dhaka, considered a megacity."
+    ]
+  },
+  {
+    "country": "Barbados",
+    "hints": [
+      "Blue and gold appear on this country's national flag.",
+      "Ocean surrounds this nation on every single side.",
+      "This nation is the birthplace of musician Rihanna",
+      "Fewer than 300,000 people live in this small nation.",
+      "In 2021, this nation removed its monarch and became a republic.",
+      "Its capital city is the historic port of Bridgetown."
+    ]
+  },
+  {
+    "country": "Belarus",
+    "hints": [
+      "Red and green both appear on this country's national flag.",
+      "A Slavic language serves as one of the official tongues here.",
+      "This country broke free during the fall of the Soviet Union",
+      "Five countries share a land border with this nation.",
+      "Its head of state has held power since nineteen ninety-four.",
+      "This country's capital is Minsk, a city rebuilt after wartime destruction."
+    ]
+  },
+  {
+    "country": "Belgium",
+    "hints": [
+      "Black, yellow, and red appear on this nation's flag.",
+      "Chocolate and beer exports have made this nation globally celebrated.",
+      "This nation has its only coastline on the north sea.",
+      "Three official languages are recognized within this country's borders.",
+      "NATO's headquarters are located within this country's territory.",
+      "This country's capital city is Brussels, a major European hub."
+    ]
+  },
+  {
+    "country": "Belize",
+    "hints": [
+      "This country is located in the heart of the americas.",
+      "English is the official language of this tropical nation.",
+      "Fewer than half a million people call this place home.",
+      "This nation gained independence from the United Kingdom in 1981.",
+      "A massive underwater sinkhole off its coast draws divers worldwide.",
+      "Its capital city is Belmopan, relocated inland after a hurricane."
+    ]
+  },
+  {
+    "country": "Benin",
+    "hints": [
+      "Green, yellow, and red appear on this nation's flag.",
+      "A Romance language serves as the official tongue here.",
+      "Vodun, often called Voodoo, originated as a religion here.",
+      "This nation shares a lengthy border with Nigeria.",
+      "The powerful Kingdom of Dahomey once ruled this land.",
+      "The official capital of this country is Porto-Novo."
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "hints": [
+      "Orange and saffron appear on this country's flag.",
+      "Measuring national happiness is a cornerstone of governance here.",
+      "This country has no borders with the sea or major body of water.",
+      "Fewer than one million people live within its borders.",
+      "This country famously features a large white dragon on its flag.",
+      "Its capital city is Thimphu, nestled in a Himalayan valley."
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "hints": [
+      "Red, yellow, and green appear as horizontal stripes on this flag.",
+      "Silver mining once drove this nation's entire colonial economy.",
+      "This nation is one of the only landlocked members of its continent.",
+      "Roughly twelve million people live within this nation's borders.",
+      "The world's largest salt flat stretches across this country's southwest.",
+      "Its constitutional capital city is Sucre, seat of the judiciary."
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "hints": [
+      "Blue and yellow appear prominently on this country's flag.",
+      "This country hosts 3 slavic tongues as official languages.",
+      "This nation has a coastline of just 20 kilometres in length. ",
+      "Three presidents simultaneously share executive power in this nation.",
+      "The assassination that ignited World War One occurred here.",
+      "Its capital city is Sarajevo, nestled among surrounding mountains."
+    ]
+  },
+  {
+    "country": "Botswana",
+    "hints": [
+      "This nation lies within the vast southern region of sub-Saharan Africa.",
+      "Diamonds account for a dominant share of this nation's export revenue.",
+      "A vast arid desert covers much of this country's interior.",
+      "Landlocked, it shares borders with exactly four neighboring countries.",
+      "The Okavango Delta, a great inland river system, floods here seasonally.",
+      "This country's capital is the growing urban hub of Gaborone."
+    ]
+  },
+  {
+    "country": "Brazil",
+    "hints": [
+      "Green is a prominent colour on this nation's flag.",
+      "This country is domninated by a famous rainforest.",
+      "A Romance language serves as the official tongue here.",
+      "This nation covers roughly 8.5 million square kilometres of land.",
+      "No other nation has won more FIFA World Cup titles overall.",
+      "This country is famous for the city of Rio de Janeiro."
+    ]
+  },
+  {
+    "country": "Brunei",
+    "hints": [
+      "Tropical rainforest covers much of this Asian nation.",
+      "This country, despite not being in the middle east, follows islam.",
+      "An Austronesian language serves as the official tongue here.",
+      "Fewer than 500,000 people call this entire nation home.",
+      "A Sultan rules here as supreme monarch without elected government.",
+      "Its capital city is Bandar Seri Begawan, home to a gilded mosque."
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "hints": [
+      "White, green, and red appear on this country's national flag.",
+      "Orthodox Christianity is the dominant religion practiced here.",
+      "This nation produces more rose oil than any other country.",
+      "This country shares a land border with Turkey.",
+      "The Cyrillic alphabet was developed within this nation's territory.",
+      "Its capital city is Sofia, the seat of this Balkan nation."
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "hints": [
+      "Red and green appear on this country's national flag.",
+      "A revolutionary leader boldly renamed this entire nation in 1984.",
+      "This country lies in the Western portion of the African continent.",
+      "Islam is practiced by the majority of the population here.",
+      "Cotton is the leading export driving this nation's economy.",
+      "Its capital city is Ouagadougou, a distinctivce hub of multiculturaism."
+    ]
+  },
+  {
+    "country": "Burundi",
+    "hints": [
+      "The flag of this country features at least one star.",
+      "This country is widely considered as one of the poorest in the world.",
+      "A civil war between the Hutu and Tutsi ravaged this nation.",
+      "This country is dominated by christianity.",
+      "Lake Tanganyika forms a natural border along its western edge.",
+      "This country's capital was officially moved to Gitega in 2019."
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "hints": [
+      "Southeast Asia is the continental region where this country sits.",
+      "Buddhism is the dominant religion practiced across this nation.",
+      "An Austroasiatic language serves as the official tongue here.",
+      "Roughly seventeen million people call this country home today.",
+      "The ancient temple complex of Angkor Wat stands here.",
+      "This country's capital is the riverside city of Phnom Penh."
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "hints": [
+      "Green, red, and yellow appear on many African flags.",
+      "The national football team is nicknamed the Indomitable Lions.",
+      "Two colonial-era European languages both hold official status here.",
+      "Six different nations share a land border with this country.",
+      "An active volcano rises as the tallest peak in West Africa.",
+      "Its capital city is Yaoundé, nestled among the central highlands."
+    ]
+  },
+  {
+    "country": "Canada",
+    "hints": [
+      "Red and white appear on this nation's flag.",
+      "Two official languages are recognized by this nation's government.",
+      "This country has the largest moose population in the world.",
+      "This nation has the longest international land border in the world.",
+      "This country is famous for its national ice hockey team.",
+      "This country is known for cities such as Toronto and Ottawa."
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "hints": [
+      "Blue appears as the dominant colour on this nation's flag.",
+      "A deeply melancholic style of folk music originated in this nation.",
+      "This country is completely surronded by the Atlantic Ocean",
+      "A Romance language serves as the official tongue here.",
+      "Independence from the Portugese arrived here in 1975.",
+      "This country's capital city is Praia, on Santiago Island."
+    ]
+  },
+  {
+    "country": "Central African Republic",
+    "hints": [
+      "This landlocked nation resides inside of Africa.",
+      "A self-proclaimed emperor once ruled this nation in the 1970s.",
+      "French is the primary language spoken in this country.",
+      "This country's flag features five distinct colours on it.",
+      "Diamond mining ranks among this nation's most significant exports.",
+      "This country is often abbreviated as CAR."
+    ]
+  },
+  {
+    "country": "Chad",
+    "hints": [
+      "Vertical blue, yellow, and red stripes make up this flag.",
+      "Decades of civil war followed this country's independence in 1960.",
+      "Arabic is one of the two official languages spoken here.",
+      "Its northern border is shared with the country of Libya.",
+      "This country is often nicknamed the Dead heart of africa",
+      "This country's capital city is N'Djamena, on the Chari River."
+    ]
+  },
+  {
+    "country": "Chile",
+    "hints": [
+      "Red, white, and blue make up the flag of this country.",
+      "World-class wine production has made this nation a celebrated exporter.",
+      "This country speaks spanish as its official language.",
+      "The world's driest desert stretches across this country's northern region.",
+      "The flag of this country is often confused with that of the state of Texas",
+      "Its capital city is Santiago, nestled near the Andes Mountains."
+    ]
+  },
+  {
+    "country": "China",
+    "hints": [
+      "Red and yellow both appear on the flag of this asian nation.",
+      "Ancient tea cultivation traditions trace their origins to this land.",
+      "Despite its size, this country only has one official time zone.",
+      "Fourteen separate nations share a land border with this country.",
+      "Over one billion people live within this country's borders.",
+      "This country's capital city is Beijing, seat of its government."
+    ]
+  },
+  {
+    "country": "Colombia",
+    "hints": [
+      "Yellow dominates the flag of this nation.",
+      "A Romance language serves as the official tongue here.",
+      "A Caribbean coastline stretches along this country's northern edge.",
+      "This country is often referred to as the bird capital of the world.",
+      "World-renowned coffee beans are among this nation's most celebrated exports.",
+      "Its capital city is Bogotá, sitting over 2,600 metres above sea level."
+    ]
+  },
+  {
+    "country": "Comoros",
+    "hints": [
+      "Green features prominently on this country's national flag.",
+      "Few nations have experienced more coups than this one.",
+      "Islam is the overwhelmingly dominant religion practiced here.",
+      "This archipelago of islands is situatd within the indian ocean.",
+      "Ylang-ylang perfume flowers are a defining export of this nation.",
+      "Its capital city is Moroni, located on Grande Comore island."
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "hints": [
+      "Red, Blue and white appear on this country's national flag.",
+      "Tropical rainforests cover a large portion of this nation's territory.",
+      "Education is both free and manadated within this nation.",
+      "Fewer than six million people call this small nation home.",
+      "In 1948, this nation constitutionally abolished its military forces entirely.",
+      "Its capital city is San José, nestled in a highland valley."
+    ]
+  },
+  {
+    "country": "Croatia",
+    "hints": [
+      "Red, white, and blue appear on this country's national flag.",
+      "A Slavic language serves as the official tongue here.",
+      "This country hosts the smallest city in the world, with a population of roughly 30.",
+      "Long stretches of the Adriatic Sea border this nation.",
+      "In 2018, this nation shocked the world by reaching the FIFA World Cup final.",
+      "Its capital city is Zagreb, a Central European cultural hub."
+    ]
+  },
+  {
+    "country": "Cuba",
+    "hints": [
+      "Red, white, and blue appear on this country's flag.",
+      "Salsa and son music originated within this nation.",
+      "This island nation sits in the Caribbean Sea.",
+      "A single-party socialist government has ruled here for decades.",
+      "Hand-rolled cigars are among the most celebrated exports here.",
+      "Its capital city is the historic port of Havana."
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "hints": [
+      "White appears prominently on this country's national flag.",
+      "Ancient mythology names this island as Aphrodite's birthplace.",
+      "A hot Mediterranean climate defines most of this nation's year.",
+      "Two official languages here belong to different language families entirely.",
+      "This island nation is divided by a UN-monitored buffer zone.",
+      "Its capital city is Nicosia, the island's largest urban center."
+    ]
+  },
+
+  {
+    "country": "Czechia",
+    "hints": [
+      "Red, white, and blue appear on this nation's flag.",      
+      "This country consistently ranks near the top of the world in peace and safety.",
+      "With over 2,000 in total, no other European country has a higher density of castles.",
+      "This country gained independence in 1993 following a peaceful dissolution.",
+      "This nation has the highest beer consumption rate per capita in the world.",
+      "Its capital city is Prague, a historic metropolis lying on a riverside."
+    ]
+  },
+
+  {
+    "country": "Democratic Republic of the Congo",
+    "hints": [
+      "Blue is a prominent colour on this country's flag.",
+      "The Rumble in the Jungle, a legendary boxing event, happened here.",
+      "A Romance language serves as the official tongue here.",
+      "This vast nation sits almost entirely within a tropical rainforest zone.",
+      "The world's deepest river flows through the heart of this nation.",
+      "This country's capital is the sprawling riverside metropolis of Kinshasa."
+    ]
+  },
+  {
+    "country": "Denmark",
+    "hints": [
+      "Red and white appear on this nation's flag.",
+      "A Germanic language is the official tongue spoken here.",
+      "This country has the oldest recognized flag still in use in the world.",
+      "A constitutional monarchy governs this small Northern European nation.",
+      "Fairy tales written here by Hans Christian Andersen charmed the entire world.",
+      "This country's capital city is the vibrant city of Copenhagen."
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "hints": [
+      "Blue and green both appear on this country's flag.",
+      "This country is a global hub for foreign millitary bases.",
+      "Over two thirds of this country's population resides in the capital city.",
+      "This nation sits in the region known as the Horn Of Africa",
+      "One of the world's busiest shipping straits passes right by its coast.",
+      "Its capital city shares the name of the country itself."
+    ]
+  },
+  {
+    "country": "Dominica",
+    "hints": [
+      "Green is the dominant colour on this country's national flag.",
+      "A Creole dialect rooted in old colonial tongues is widely spoken here.",
+      "Tropical rainforests cover much of this volcanic Caribbean island.",
+      "Fewer than 100,000 people live within this nation's borders.",
+      "Boiling Lake, one of the world's largest hot springs, lies here.",
+      "This country's capital city is the historic port town of Roseau."
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "hints": [
+      "Blue and red appear prominently on this nation's flag.",
+      "This country is the only in the world to feature the bible on its national flag.",
+      "Merengue is a lively dance music tradition born here.",
+      "The oldest European colonial city in the Americas stands here.",
+      "This nation shares its island with exactly other one nation.",
+      "Its capital city is Santo Domingo, the largest across the entire island."
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "hints": [
+      "Yellow appears prominently on this country's national flag.",
+      "This country has used the US dollar as its official currency since 2001.",
+      "Roses and bananas rank among its most celebrated exports.",
+      "The equator itself runs directly through the center of this nation's territory.",
+      "This country is the owner of the famous Galapagos Islands.",
+      "Its capital city is Quito, perched high in the Andes."
+    ]
+  },
+  {
+    "country": "Egypt",
+    "hints": [
+      "Red, white, and black appear on this country's flag.",
+      "Islam is the dominant religion, though Orthodox Cristianity holds a healthy minority.",
+      "This country receives only 2.5cm (roughly one inch) of rainfall every year.",
+      "Inventions such as the 365 day calendar, locks, and toothpaste are attributed to this country.",
+      "A famous canal here connects the Mediterranean and Red seas; a crucial connection for global trade.",
+      "The capital city is Cairo, a megacity located on the Nile River."
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "hints": [
+      "Blue and white are the main colours on this country's flag.",
+      "Coffee cultivation shaped this nation's economy for much of its history.",
+      "This nation's only coastline faces the mighty Pacific Ocean.",
+      "This country has recently had a large and succesful crackdown on violence.",
+      "Bitcoin is considered as a legal tender/currency in this nation.",
+      "Its capital city is San Salvador, nestled among volcanoes."
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "hints": [
+      "Green, white, and red all feature on this country's flag.",
+      "Independence from a European colonial power arrived here in 1968.",
+      "A tropical climate blankets this entire nation year-round.",
+      "This nation has a tiny coastline on the Gulf of Guinea.",
+      "The capital of this nation sits on an island separate from the mainland",
+      "The capital city is Malabo."
+    ]
+  },
+  {
+    "country": "Eritrea",
+    "hints": [
+      "Red, green, and blue appear on this nation's flag.",
+      "A thirty-year independence war ended here in the early 1990s.",
+      "Its coastline stretches along the Red Sea for hundreds of kilometres.",
+      "A single-party government has ruled this nation since its independence.",
+      "This nation does not have an official language; many are widely used.",
+      "This country's capital is Asmara, often referred to as Little Italy."
+    ]
+  },
+  {
+    "country": "Estonia",
+    "hints": [
+      "Black is a prominant colour on the flag of this nation.",
+      "This nation is often considered one of the most digitaly advanced in the world.",
+      "A Finno-Ugric language serves as the official language here.",
+      "Fewer than two million people call this nation home.",
+      "This small nation shares a border with Russia, from whom it gained independence.",
+      "Its capital city is Tallinn, known for its medieval old town."
+    ]
+  },
+  {
+    "country": "Eswatini",
+    "hints": [
+      "This nation is located on the African continent in the southern hemisphere.",
+      "The last remaining absolute monarchy in Africa rules this nation.",
+      "Entirely landlocked, this country has no coastline at all.",
+      "Fewer than two million people call this country home.",
+      "The annual Reed Dance ceremony here draws thousands of young women.",
+      "This country's capital city is Mbabane, its administrative center."
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "hints": [
+      "Green, yellow, and red stripes appear on this country's flag.",
+      "The coffee culture of the world traces its origins to this nation.",
+      "Despite being large, this nation is landlocked with no sea access.",
+      "This nation is the second most populated on its continent.",
+      "The calendar of this nation features 13 months as opposed to the usual 12.",
+      "This country's capital is Addis Ababa, the main seat of the African Union."
+    ]
+  },
+  {
+    "country": "Fiji",
+    "hints": [
+      "This nation resides deep within the pacific ocean.",
+      "This nation is obsessed with rugby, a sport that they dominate internationally.",
+      "This country is made up for over 330 unique islands, with 500 small islets.",
+      "The Briitsh flag is present on the top left corner of this country's flag",
+      "Sugar cane has long been a cornerstone export of this economy.",
+      "A famous brand of bottled water shares a name with this nation."
+    ]
+  },
+  {
+    "country": "Finland",
+    "hints": [
+      "Blue and white appear on this country's national flag.",
+      "The popular tradition of sauna bathing was born in this nation.",
+      "A Uralic language serves as the primary language spoken here.",
+      "This nation has more saunas than registered vehicles in its borders.",
+      "Over 180,000 lakes dot the landscape of this nation.",
+      "Its capital city is Helsinki, situated on the southern coast."
+    ]
+  },
+  {
+    "country": "France",
+    "hints": [
+      "Red, white, and blue appear on this country's national flag.",
+      "Revolutionary ideals of liberty and equality were born here.",
+      "The metric system was invented by scientists in this nation.",
+      "This country has one of the highest tourism rates in the world.",
+      "The Maginot line, a famous series of concrete fortifications, was built here.",
+      "This country's capital is the globally iconic city of Paris."
+    ]
+  },
+  {
+    "country": "Gabon",
+    "hints": [
+      "Green, yellow, and blue appear on this country's national flag.",
+      "French is the official language, owing to its time under french colonial rule.",
+      "Tropical rainforests cover nearly 85% of the landmass of this nation.",
+      "Oil exports have long driven this country's national economy.",
+      "A military coup ended civilian rule here in 2023.",
+      "Its capital city is Libreville, founded as a settlement for freed enslaved people."
+    ]
+  },
+  {
+    "country": "Gambia",
+    "hints": [
+      "Red, blue, and green all appear on this country's flag.",
+      "Kora music traditions have deep roots in this region.",
+      "Islam is the dominant religion, practiced by most residents.",
+      "A river named after the same nation runs across the entire span of its borders.",
+      "This nation is almost entirely enclosed by a single neighboring country",
+      "Its capital city is the small coastal town of Banjul."
+    ]
+  },
+  {
+    "country": "Georgia",
+    "hints": [
+      "Red and white are the two colours on this country's flag.",
+      "This nation is said to be the birthplace of wine thousands of years ago.",
+      "Orthodox Christianity is the dominant religion practiced in this nation.",
+      "A Kartvelian language, unrelated to any other family, is spoken here.",
+      "This nation gained independence from the Soviet Union in 1991.",
+      "This country's capital is Tbilisi, a city of ancient history."
+    ]
+  },
+  {
+    "country": "Germany",
+    "hints": [
+      "This country's flag features the iconic three stripes pattern.",
+      "This nation shares borders with an impressive nine other countries.",
+      "There are over 20,000 castles scattered across this nation.",
+      "Many sections of the motorway networks in this nation have no speed limit.",
+      "In 1990, this nation was reunited after decades of being divided in two.",
+      "Its capital city is Berlin, one of the most important cities in mainland Europe."
+    ]
+  },
+  {
+    "country": "Ghana",
+    "hints": [
+      "Green, red, and yellow are the main colours on the flag of this nation.",
+      "English serves as the official language of government here, owing to British colonial rule.",
+      "Brightly striped woven cloth, known as Kente, is produced here and recognized worldwide.",
+      "Cocoa beans and gold are classifed as this nation's most valuable exports.",
+      "This nation was the first in Sub-Saharan Africa to gain independence back, doing so in 1957.",
+      "This country's capital city is the bustling coastal city of Accra."
+    ]
+  },
+  {
+    "country": "Greece",
+    "hints": [
+      "Blue and white appear across this country's national flag.",
+      "This country is made up of over 6000 islands, with a strong connection to the ocean.",
+      "This nation host an impressive 19 UNESCO World Heritage sites.",
+      "The ancient Byzantine Empire was centered around this nation.",
+      "The ancient Olympic Games were born and first hosted in the lands of this nation.",
+      "Its capital city is Athens, named after the goddess Athena."
+    ]
+  },
+  {
+    "country": "Grenada",
+    "hints": [
+      "Red, green, and yellow all appear on the flag of this country.",
+      "English is the official language spoken across this island nation.",
+      "This nation was devastated by Hurricane Ivan back in the year 2004.",
+      "Fewer than 200,000 people call this small nation home.",
+      "Nutmeg production has earned this country the nickname of The Island of Spice",
+      "This country's capital city is the historic St. George's."
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "hints": [
+      "Blue and white appear on this country's flag.",
+      "This nation is renowed globally for its production of high-quality coffee and chocolate.",
+      "Spanish serves as the official language spoken here.",
+      "This nation hosts the impressive lake Atitlan, surronded by massive volcanoes.",
+      "This country is often referred to as the heart of the Mayan world.",
+      "This capital city shares the same name as the nation itself."
+    ]
+  },
+  {
+    "country": "Guinea",
+    "hints": [
+      "Red, yellow, and green appear on the flag this nation.",
+      "Islam is the dominant religion, with its mosques being among the largest in the region.",
+      "This country has a population of roughly 13 million people.",
+      "This nation was the first French colony to gain independence, doing so in 1958.",
+      "Enormous bauxite reserves, along with untapped diamond and goal reserves, make this a mineral rich nation.",
+      "This country's capital city is Conakry, located right on the Atlantic coast."
+    ]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "hints": [
+      "This nation is one of many located in the middle of Sub-Saharan Afica",
+      "A hard-fought liberation war defined this country's path to independence in the 70's.",
+      "This country was one of the few to be colonized by the Portugese in the scramble for Africa.",
+      "During the year 2020, this nation famously had two prime ministers and two presidents at once.",
+      "Cashew nuts account for the vast majority of exports here.",
+      "Its capital city is Bissau, sharing part of the name of the nation itself."
+    ]
+  },
+  {
+    "country": "Guyana",
+    "hints": [
+      "Green dominates the flag of this country.",
+      "The name of this nation roughly translates to the land of many waters",
+      "This nation has one of the fastest growing economies in the world thanks to oil exports.",
+      "This country is almost completely covered by a mighty tropicl rainforst.",
+      "Kaieteur Falls, one of the world's most powerful waterfalls, lies here.",
+      "Its capital city is Georgetown, situated on the Atlantic coast."
+    ]
+  },
+  {
+    "country": "Haiti",
+    "hints": [
+      "Blue and red appear on this nation's flag.",
+      "This nation is the most mountainous among its otherwise flat neighbours.",
+      "This country is highly susceptible to earthquakes and hurricanes, lying on tectonic plates.",
+      "This nation shares its island with exactly one neighbor.",
+      "This nation famously gained independence through the only successful enslaved revolution.",
+      "Its capital city is Port-au-Prince, an urban center situated right on the coast."
+    ]
+  },
+  {
+    "country": "Honduras",
+    "hints": [
+      "Blue and white stripes appear prominently on this nation's flag.",
+      "Ancient Maya ruins draw archaeologists and tourists to this country.",
+      "A Romance language serves as the official tongue spoken here.",
+      "Coffee ranks among this nation's most valuable agricultural exports.",
+      "The ancient Mayan city of Copán lies within its borders.",
+      "Its capital city is Tegucigalpa, nestled among central mountain valleys."
+    ]
+  },
+  {
+    "country": "Hungary",
+    "hints": [
+      "Red, white, and green appear on this country's national flag.",
+      "The official language spoken here belongs to the Uralic language family.",
+      "A paprika-spiced meat stew known as goulash is this nation's most iconic dish.",
+      "The Rubix Cube was invented by a sculptor who originated from this country.",
+      "A landmark 1956 uprising against the rule of the Soviet Union resulted in the deaths of thousands.",
+      "The name of this nation resembles the term used to express the desire for food."
+    ]
+  },
+  {
+    "country": "Iceland",
+    "hints": [
+      "Red, blue, and white appear on the flag of this nation.",
+      "This nation hosts one of the oldest parliaments in the worls.",
+      "This country sits on its own island with no land borders.",
+      "Fewer than 400,000 people call this small nation home.",
+      "This country is famous for its glaciers, volcanoes, and hot springs.",
+      "Its capital city is the northernmost national capital on Earth, named Reykjavik."
+    ]
+  },
+  {
+    "country": "India",
+    "hints": [
+      "This nation resides in Asia and has four colours on their national flag.",
+      "Yoga was founded in this nation thousands of year ago.",
+      "This nation is one of many to border the vast Himalayan mountain range.",
+      "This country has the highest percentage of their population being vegetarians globally.",
+      "This country is famous for cricket and is considered a top 3 team in the sport globally.",
+      "Its capital city is New Delhi, though it also hosts the famous city of Mumbai."
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "hints": [
+      "Red and white are the only colours that appear on this nation's flag.",
+      "This country is one of the widest in the world, spanning over 5000km.",
+      "The Komodo Dragon, the world's largest lizard, is exclusive to islands in this nation.",
+      "This country has over 100 active volcanoes scattered across its islands.",
+      "More Muslims live here than in any other nation worldwide.",
+      "Its capital city is Jakarta, a megacity located on Java island."
+    ]
+  },
+  {
+    "country": "Iran",
+    "hints": [
+      "This nation is one of many to reside within the bounds of the Middle East.",
+      "This country is among the highet producers of natural gas and crude oil in the world.",
+      "This nation is one the oldest continuous civilizations, with settlements as old as 4000 BCE.",
+      "This country officially changed its name in 1935 - the two are often still mixed up.",
+      "A famous revolution back in 1979 transformed this nation into an Islamic Republic",
+      "This country's capital is the ancient city of Tehran."
+    ]
+  },
+  {
+    "country": "Iraq",
+    "hints": [
+      "Red and white are among the colours on the flag of this Middle Eastern nation.",
+      "This nation is almost entirely muslim, with Shia Muslims being the dominant group.",
+      "This country is referred to as the birthplace of writing and the wheel.",
+      "A large chunk of this country is claimed by the stateless nation of Kurdistan.",
+      "This nation hosts the famous Euphrates and Tigris rivers.",
+      "Its capital city is Baghdad, which is also its largest city."
+    ]
+  },
+  {
+    "country": "Ireland",
+    "hints": [
+      "Green and white feature prominently on this country's national flag.",
+      "This nation is considered to be the birthplace of the holiday Halloween.",
+      "This country is often nicknamed the Emerald Isle.",
+      "This nation is the only in the world to have a musical instrument as their national symbol.",
+      "This country has the highest percentages of redheads in the world.",
+      "This country's capital city is Dublin, on its eastern coast."
+    ]
+  },
+  
+  {
+    "country": "Italy",
+    "hints": [
+      "This country features three vertical stripes on its national flag.",
+      "This nation has many notable inventions such as the piano and the thermometer.",
+      "This country has a long coastline on the Mediterranean sea.",
+      "Two independent nations are completely surrounded by this country.",
+      "This nation is famous for being shaped like a boot.",
+      "This country's capital city is Rome, the heart of the former Roman Empire."
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "hints": [
+      "This country resides in the vast region of Sub-Saharan Africa.",
+      "This nation has a coastline on the Gulf of Guinea.",
+      "This nation speaks French, owing to its time under French colonial rule.",
+      "This country is religiously split in half between Christians and Muslims.",
+      "This nation produces more Cocoa than any other country in the world.",
+      "This country has two capital cities, Yamoussoukro and the more famous Abidjan."
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "hints": [
+      "This nation is one of few in the world without red, blue, or white on their flag.",
+      "The Indigenous people of this nation often refer to the country as Xaymaca.",
+      "This country is famous for hosting some of the most beautiful beaches in the world.",
+      "Roughly three million people call this island nation home.",
+      "Reggae music was born here, becoming a key part of global music culture.",
+      "Famous olympic sprinter Usain Bolt was born in this nation."
+    ]
+  },
+  {
+    "country": "Japan",
+    "hints": [
+      "Red and white are the only colours on this country's flag.",
+      "The number four is avoided throughout this nation, as it resembles the word for death.",
+      "Entirely surrounded by ocean, this country is made up of a large number of islands.",
+      "This country has one of the oldest populations in the world on average.",
+      "The world's oldest continuous imperial monarchy still governs here.",
+      "This country's capital is Tokyo, one of the world's largest and most populous cities."
+    ]
+  },
+  {
+    "country": "Jordan",
+    "hints": [
+      "Black, white, green, and red all appear on this nation's flag.",
+      "Desert and arid scrubland cover most of this country's terrain.",
+      "A king serves as head of state under a constitution.",
+      "This country borders the Dead Sea, which is the lowest point of dry land on the planet.",
+      "The ancient rose-red city of Petra draws millions of visitors each year.",
+      "This country's capital is Amman, a city inhabited by millions of people"
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "hints": [
+      "The flag of this nation is one of several that features an image of the sun",
+      "This nation is home to the world's oldest and largest operating space launch facility.",
+      "A Turkic language serves as the official tongue here.",
+      "This country is landlocked, though does border the notable Caspian Sea.",
+      "This nation is one of few that is transcontinental, sitting in Europe and Asia",
+      "This country's capital is the planned city of Astana."
+    ]
+  },
+  {
+    "country": "Kenya",
+    "hints": [
+      "Black, red, and green appear on this country's national flag.",
+      "This country often produces some of the best long-distance runners in the world.",
+      "The equator passes directly through this country's territory.",
+      "This nation has the second highest peak on the African continent.",
+      "A great geological rift valley cuts through this country's landscape, creating many lakes.",
+      "This country's capital city is Nairobi, a major African hub."
+    ]
+  },
+  {
+    "country": "Kiribati",
+    "hints": [
+      "This country is one of several that features the sun on their national flag.",
+      "This nation spans across the north, south, east, and western hemispheres",
+      "Independence from colonial rule was gained from the United Kingdom in 1979.",
+      "This nation is made up of exactly 33 islands, prone to rising sea levels.",
+      "Fewer than 150,000 people call this place home.",
+      "Its capital city is South Tarawa, located on the Gilbert Islands."
+    ]
+  },
+  {
+    "country": "Kosovo",
+    "hints": [
+      "Blue and gold feature prominently on this nation's flag.",
+      "Islam is the majority religion practiced by people here.",
+      "This nation is situated in the balkan region of Europe.",
+      "This nation declared independence from another country in 2008.",
+      "This nation is only formally recognized by roughly half of all UN member states.",
+      "Its capital city is Pristina, the cultural and political heart of the nation."
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "hints": [
+      "Green, white, red, and black all appear on this country's national flag.",
+      "This nation is an absolute monarcy, with an Emir serving as head of state.",
+      "This country is made up of approximately 70% foreign nationals.",
+      "The currency of this nation is often ranked as the strongest in the entire world.",
+      "A neighboring country's military invaded and briefly occupied this land in 1990.",
+      "Its capital city shares a name with the nation itself."
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "hints": [
+      "This nation is located near the center of the asian continent.",
+      "One of the world's longest and most prestigious oral folk poem traditions belongs here.",
+      "This country is among the farthest from any major ocean in the world.",
+      "The national animal of this nation is the Snow Leopard",
+      "The Tian Shan mountain range covers most of this country, creating a very high average elevation.",
+      "The flag of this nation is often compared to the Xbox logo."
+    ]
+  },
+  {
+    "country": "Laos",
+    "hints": [
+      "Red and blue feature prominently on this country's national flag.",
+      "This country has a deep connection to Elephants and is nicknamed the Land of a Million Elephants",
+      "Entirely landlocked, this nation has no access to any major sea.",
+      "This nation is one of the few remaining communist states in the world.",
+      "The famous Mekong River runs along the western border of this nation.",
+      "Its capital city is Vientiane, the nation's political and cultural center."
+    ]
+  },
+  {
+    "country": "Latvia",
+    "hints": [
+      "Dark red and white make up the flag of this nation.",
+      "Over half of this nation is covered by dense forests of pine and birch trees.",
+      "Ice hockey is the most famous sport in this nation, followed by basketball.",
+      "Fewer than two million people live in this nation.",
+      "This nation broke free from the Soviet Union in 1991 in the famous Singing Revolution.",
+      "This country's capital is Riga, a city located on the Daugava River."
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "hints": [
+      "This tiny nation is one of the many to sit on the Asian mainland.",
+      "This nation has some of the oldest continuously inhabited cities in the world.",
+      "Mediterranean waters border this country along its western edge.",
+      "This country speaks Arabic, French, and English as official languages.",
+      "The ancient Phoenicians used to be centered around the modern territory of this nation.",
+      "The flag of this nation features a green cedar tree in the center."
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "hints": [
+      "This nation sits entirely within the Southern African region.",
+      "This nation is one of few in Africa to experience winters thanks to its high elevation.",
+      "This nation gained independence from the United Kingdom in 1966.",
+      "This country is mainly made up of the Basotho ethnic group.",
+      "This nation is one of few in the world to be completely surronded by another country..",
+      "Its capital city is Maseru, nestled along a river."
+    ]
+  },
+  {
+    "country": "Liberia",
+    "hints": [
+      "This tiny nation is located in the vast reegion of Sub-Saharan Africa.",
+      "This country is the birthplace of former footballer and politician George Weah.",
+      "This nation was founded by freed slaves and has never been conquered by a European power.",
+      "This country is one of three in the world to still use the Imperial System of measurement.",
+      "The flag design of this nation closely mirrors the one of the United States.",
+      "Its capital city is Monrovia, named after the former United States president James Monroe."
+    ]
+  },
+  {
+    "country": "Libya",
+    "hints": [
+      "This nation is located on the upper-half of the African continent.",
+      "Almost the entirety of this country is covered by the large Saharan Desert.",
+      "This country is one of the largest on the African continent.",
+      "This nation has some of the largest natural oil deposits in the entire world.",
+      "This nation was ruled by the infamous Muammar Gaddafi for nearly 40 years.",
+      "Its capital city is the ancient city of Tripoli, sitting on the Mediterranean coast."
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "hints": [
+      "This tiny nation sits within the European mainland.",
+      "This country is a constituional monarchy, being ruled by Prince Hans-Adam II",
+      "This nation was once accidentally invaded by one of its neighbours.",
+      "This country is one of two in the world to be doubly-landlocked.",
+      "This nation boasts one of the highest per-capita GDP rates in the world.",
+      "This country is nuzzled between the larger nations of Switzerland and Austria."
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "hints": [
+      "Yellow, green, and red appear on this country's flag.",
+      "This country is a member of both NATO and the European Union",
+      "The majority of this nation is covered by large forests.",
+      "This nation was the first republic to declare indepenedence from the Soviets in 1990.",
+      "This country's national sport is Basketball, often called its second religion.",
+      "Its capital city is Vilnius, home to a UNESCO-listed Old Town."
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "hints": [
+      "Red, white, and blue appear on the flag of this nation.",
+      "This nation is landlocked and does not border any major lake or sea.",
+      "This country is the only remaining Grand Duchy in the world, governed by a Grand Duke.",
+      "This nation has one of the highest per capita GDP rates in the world.",
+      "This country is one of three to be part of the Benelux union. ",
+      "The capital city shares a name with the nation itself."
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "hints": [
+      "Red, white, and green appear on this nation's flag.",
+      "This country is often nicknamed the Great Red Island",
+      "Nearly 30 million people call this nation their home.",
+      "Lemurs, found nowhere else on Earth, thrive in the forests of this nation.",
+      "This nation is its own island and sits near the bottom of the African continent.",
+      "A famous dreamworks movie about penguins shares a name with this nation."
+    ]
+  },
+  {
+    "country": "Malawi",
+    "hints": [
+      "Black, red, and green appear on this country's flag.",
+      "This nation is among the poorest in the world in terms of GDP per capita.",
+      "Entirely landlocked, this nation has no access to the sea.",
+      "Despite its small size, this nation has a population of roughly 22 million.",
+      "A vast freshwater lake, sharing the name of the nation, is the third largest in Africa.",
+      "Its capital city is Lilongwe, replacing Zomba in 1975."
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "hints": [
+      "Red, blue and white make up the flag of this nation.",
+      "This nation was colonized by the English and gained independence in 1957. ",
+      "Islam is the state religion, though many also practice buddhism and hinduism.",
+      "Palm oil is among this country's most valuable exports.",
+      "This country is seperatd into two large parts located on two islands, seperated by sea.",
+      "Its capital city is Kuala Lumpur, a bustling modern metropolis."
+    ]
+  },
+  {
+    "country": "Maldives",
+    "hints": [
+      "Red and green appear on this nation's flag.",
+      "This nation is an Islamic republic and is the smallest muslim nation in the world.",
+      "This nation is made up of more than 1200 islands over 90000 square kilometres of sea.",
+      "The first ever underwater cabinet meeting was held in this nation.",
+      "This nation is a highly popular tourist destination, which is the main sector of its economy.",
+      "This country is the lowest-lying in the world and is expected to sink in the coming decades."
+    ]
+  },
+  {
+    "country": "Mali",
+    "hints": [
+      "Red, yellow and green appear on the flag of this African nation.",
+      "The majority of this nation is covered by the mighty Saharan Desert",
+      "This country has one of the youngest average populations in the world.",
+      "One of the wealthiest individuals in history, Mansa Musa, once ruled this nation.",
+      "Timbuktu, a famed ancient city of learning, lies in this country.",
+      "Its capital city is Bamako, situated along the Niger River."
+    ]
+  },
+  {
+    "country": "Malta",
+    "hints": [
+      "Red and white appear on this country's flag.",
+      "The Knights of St. John once ruled and fortified this nation, being engraved into its history.",
+      "During WW2, this nation was a crucial landing spot for planes as they travelled to bomb Germany and Italy.",
+      "Fewer than 600,000 people live across this island nation.",
+      "Famous productions such as Game of Thrones and Gladiator were shot in this nation.",
+      "Its capital city is Valletta, one of the smallest capitals in Europe."
+    ]
+  },
+  {
+    "country": "Marshall Islands",
+    "hints": [
+      "This vast island nation is one of many to sit in the Pacific Ocean.",
+      "This nation is a popular location for the testing of nuclear bombs such as the infamous Castle Bravo.",
+      "This nation only became fully indepenent in 1986, though is still heavily supported by the United States.",
+      "This country is one of the least visitd in the world, with roughly 6000 tourists coming each year.",
+      "This nation is one of the lowest-lying in the world and is prone to rising sea levels.",
+      "Its capital city is Majuro, a small atoll settlement."
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "hints": [
+      "Green dominates the flag of this African nation.",
+      "The mighty Sahara Desert covers most of this country's vast territory.",
+      "Arabic serves as the sole official language of this land.",
+      "Iron ore dominates the exports of this nation, with Iron ore trains here being the longest in the world.",
+      "This nation was the last in the world to abolish slavery, only doing so in 2007.",
+      "Its capital city is Nouakchott, built near the Atlantic coast."
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "hints": [
+      "Red, blue, yellow and green appear on the vibrant flag of this nation.",
+      "Sugar cane plantations once defined this nation's entire colonial economy.",
+      "This is the only African nation where Hinduism serves as the dominant religion.",
+      "This nation was the habitat of the now extinct Dodo bird.",
+      "This country was historically known as the Star and Key of the Indian Ocean.",
+      "Its capital city is Port Louis, a vibrant harbor town."
+    ]
+  },
+  {
+    "country": "Mexico",
+    "hints": [
+      "Red, white and green appear on this country's flag.",
+      "This country has one of the highest soda consumption rates in the world.",
+      "This nation is in the top 10 for largest populations in the world.",
+      "The famous Aztec Empire traces its roots back to this nation.",
+      "Dia de Muertos, or the Day of the Dead, originates from this nation.",
+      "This nation is one of two to share a land border with the United States."
+    ]
+  },
+  {
+    "country": "Micronesia",
+    "hints": [
+      "This vast string of islands are found in the mighty Pacific Ocean.",
+      "This nation gained independence from the USA in 1986, with the countries sharing strong ties.",
+      "This country is made up of roughly 607 islands located in the Caroline archipelago.",
+      "The official name of this country is among the longest in the world.",
+      "Four white stars are arranged on this country's flag.",
+      "This country's capital is Palikir, located on Pohnpei island."
+    ]
+  },
+  {
+    "country": "Moldova",
+    "hints": [
+      "Red, blue and yellow appear on this country's flag.",
+      "This nation has some of the finest wine in the world and the world's largest wine cellar.",
+      "This country gained independence in 1991 following the collapse of the Soviet Union.",
+      "This country is landlocked, though sits under 5 kilometres away from the Black Sea.",
+      "This nation has been in a long conflict with a breakaway state known as Transnistria.",
+      "Its capital city is Chișinău, a major hub of eastern European culture."
+    ]
+  },
+  {
+    "country": "Monaco",
+    "hints": [
+      "Red and white are the only colours on this country's flag.",
+      "A hereditary prince has ruled this nation for centuries.",
+      "This nation has one of the highest population densities in the entire world.",
+      "This country has a small coastline on the grand Mediterranean Sea.",
+      "This country hosts one of the most famous Grand Prix events in the world.",
+      "This nation is the second smallest in the world, only beaten by the Vatican City."
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "hints": [
+      "Red and blue appear prominently on this country's national flag.",
+      "Buddhism is the dominant religion practiced across this country.",
+      "One of the largest deserts in the world makes up much of this nation's territory.",
+      "Khoomei, the art of throat singing, is widely practiced and embedded in national culture.",
+      "This country's capital city is Ulaanbaatar, one of the coldest capital cities on the planet.",
+      "The infamous Genghis Khan founded and turned it into the largest continuous land empire in history."
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "hints": [
+      "Red appears prominently on this country's national flag.",
+      "Its name translates to Black Mountain in its native language.",
+      "This nation is home to the deepest canyon in mainland Europe.",
+      "Fewer than one million people call this tiny nation home.",
+      "This country is one of the newest in the world, gaining independence in the year 2006.",
+      "Its capital city is Podgorica, nestled in the south."
+    ]
+  },
+  {
+    "country": "Morocco",
+    "hints": [
+      "Red dominates the national flag of this country.",
+      "Tagine and a sweet mint tea are central to the cuisine of this nation.",
+      "This nation practices Islam as its dominant religion, with 99% of the population being muslim.",
+      "The famous Atlas Mountains run through a significant portion of this land.",
+      "This is the first African/Arab nation to reach a World Cup Semi-Finals ever, doing so in 2022.",
+      "Its capital city is Rabat, a city situated on the Atlantic coast."
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "hints": [
+      "This country is located in the vast region of Sub-Saharan Africa.",
+      "Famous women's athlete Maria Mutola originated from this nation.",
+      "Its eastern coast stretches along the Indian Ocean.",
+      "This nation gained independence from the Portugese in 1975 after a long war for freedom.",
+      "This country's capital city is the port city of Maputo.",
+      "This country famously features an AK-47 rifle on its national flag."
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "hints": [
+      "This country resides on the eastern portion of the Asian continent.",
+      "This country has been engulfed in a deadly civil war since the beginning of the decade.",
+      "This country is famous for its production of rice, teak, and other minerals.",
+      "This nation is one of few in the world to still use the imperial system for measurements.",
+      "Its capital was controversially relocated inland by the military in 2006.",
+      "This country's capital is Naypyidaw, built from scratch in central territory."
+    ]
+  },
+  {
+    "country": "Namibia",
+    "hints": [
+      "Blue, red, and green are among the colours of this country's flag.",
+      "One of the world's oldest deserts dominates the land of this nation",
+      "This country is the second least densely populated in the world.",
+      "Having previously been a German colony, German architecture is present across the nation.",
+      "Its capital city is Windhoek, nestled in the country's interior.",
+      "This nation gained independence from South Africa in March of 1990."
+    ]
+  },
+  {
+    "country": "Nauru",
+    "hints": [
+      "This island nation resides in the vast Pacific Oean.",
+      "This country only recieves a few hundred tourists each year, all of whom require visas.",
+      "Fewer than 15,000 people call this small nation home.",
+      "This country has one of the highest obesity rates in the world.",
+      "Phosphate mining made this the second richest nation by GDP per capita in the 1970's.",
+      "This country does not have a capital city, but rather is centralized in the district of Yaren."
+    ]
+  },
+  {
+    "country": "Nepal",
+    "hints": [
+      "Red dominates the national flag of this Asian country.",
+      "Hinduism is practiced by a majority of its population.",
+      "This country has famously never been colonized by a former power.",
+      "This country is landlocked and does not border any major sea or lake.",
+      "This nation is one of few in the world to not have a rectangular flag.",
+      "The tallest mountain in the world, Mount Everest, sits on its northern border."
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "hints": [
+      "Red, white, and blue appear on this country's national flag.",
+      "This country is one of the lowest-lying in the entire world.",
+      "The vast majority of global Tulip farms can be found in this country.",
+      "This country has the tallest people on average in the world.",
+      "Bicycles famously outnumber the number of people in this nation.",
+      "Its capital city is Amsterdam, a historic city known for its canals and architecture."
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "hints": [
+      "This island nation resides in the Southern Hemisphere.",
+      "Roughly five million people live across this nation's two dominant islands.",
+      "This country was first settled by the Maori people around the year 1300.",
+      "This country is known for its dominant Rugby team, nicknamed The All Blacks",
+      "This country has a flag that is almost identical in appearance to the one of Australia.",
+      "Its capital city is Wellington, sitting at the southern tip."
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "hints": [
+      "Blue and white make up this country's national flag.",
+      "A left-wing revolution overthrew a longstanding dictatorship here in 1979.",
+      "This nation has previously been colonized by both the British and the Spanish.",
+      "This country sits on the Ring of Fire and features 19 active volcanoes.",
+      "The largest freshwater lake in Central America lies within its borders.",
+      "Its capital city is Managua, sitting on the southern lakeshore."
+    ]
+  },
+  {
+    "country": "Niger",
+    "hints": [
+      "Green, white, and orange appear on the flag of this African nation.",
+      "Islam is practiced by nearly the entire population here.",
+      "This nation is landlocked and is covered by the vast Saharan Desert.",
+      "This country gained independence from the French in 1960.",
+      "Uranium mining drives a significant portion of this nation's exports.",
+      "This country's capital is the city of Niamey."
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "hints": [
+      "This vast nation sits in the expansive territory of Subsaharan Africa.",
+      "This nation has over 250 ethnic groups and 500 Indigenous languages.",
+      "A thriving homegrown film industry here, Nollywood, rivals Hollywood and Bollywood in output.",
+      "Afrobeats originated in this nation, creating famous artists such as Burna Boy and Wizkid.",
+      "This country has both the largest population and largest economy in Africa.",
+      "This country's capital city is Abuja, though Lagos is still larger by population."
+    ]
+  },
+  {
+    "country": "North Korea",
+    "hints": [
+      "Red dominates the flag of this East Asian nation.",
+      "Roughly 25 million people call this nation their home.",
+      "This country shares a tiny land border with Russia.",
+      "This nation has one of the largest armies in the world. and has possessed nuclear weapons since 2006.",
+      "A heavily fortified and demilitarized zone divides this country from its southern neighbor.",
+      "This country is infamous for its supreme leader, named Kim Jong Un."
+    ]
+  },
+  {
+    "country": "North Macedonia",
+    "hints": [
+      "Red and yellow appear on this country's flag.",
+      "This country has a population of roughly 2 million people.",
+      "This nation broke free from Yugoslavia in 1991 in a peaceful manner.",
+      "Ancient connections to Alexander the Great are proudly claimed here.",
+      "This country was forced to change its name in 2018 after a history of disputes with Greece.",
+      "This country's capital city is Skopje, located on the Vardar River."
+    ]
+  },
+  {
+    "country": "Norway",
+    "hints": [
+      "Red dominates the flag of this nation.",
+      "This country is consistently one of the top performers at the Winter Olympics.",
+      "This country has a large coastline riddled with islands along the Atlantic Ocean.",
+      "Viking seafarers from this region explored and settled across much of modern Europe.",
+      "Offshore oil and gas have helped this nation become one of the wealthiest in the world.",
+      "Its capital city is the bustling city of Oslo, perched at the head of a fjord."
+    ]
+  },
+  {
+    "country": "Oman",
+    "hints": [
+      "Red, white, and green appear on the flag of this nation.",
+      "This country is one of the oldest independent states in the Middle East",
+      "This nation is known for producing the highest quality Frankincense in the world.",
+      "An absolute monarchy, governed by the Sultan, forms the authority. of this nation.",
+      "This nation's coastline faces the Arabian Sea to the south.",
+      "Its capital city is the historic port of Muscat."
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "hints": [
+      "Green and white appear on the flag of this nation.",
+      "This country is almost entirely made up of muslims, with islam being the state religion.",
+      "This country sits in the top 10 for total population globally.",
+      "This nation gained independence from the British in 1947, separating from British India.",
+      "The mighty Indus River flows through the heart of this country.",
+      "This couuntry is famous for cities such as Karachi and Lahore."
+    ]
+  },
+  {
+    "country": "Palau",
+    "hints": [
+      "This island nation sits in the mighty Pacific Ocean.",
+      "Fewer than 20,000 people call this tiny nation home.",
+      "This nation is famous for being the home of the widely visited Jellyfish Lake.",
+      "This nation gained independence from the United States in 1994.",
+      "The capital of this nation is the town of Ngerulmud, though Koror is far larger in size",
+      "The flag of this country features a large yellow circle on a blue backdrop."
+    ]
+  },
+  {
+    "country": "Palestine",
+    "hints": [
+      "This tiny nation resides in the vast territory of the Middle East.",
+      "This nation is home to some of the oldest Olive Trees in the entire world.",
+      "This country has a population of roughly 5 million people.",
+      "While not a UN member, this country is recognized by over 150 nations globally.",
+      "This nation resides in the section of the Middle East callled The Holy Land.",
+      "This country is currently engulfed in a devestating conflict with Israel."
+      
+    ]
+  },
+  {
+    "country": "Panama",
+    "hints": [
+      "Red, white, and blue appear on this country's flag.",
+      "Spanish serves as the official language in this nation.",
+      "This nation has more bird species than almost any other country in the world.",
+      "The national dish is Sancocho, a chicken stew that is celebrated worldwide.",
+      "This nation has gained independence twice - from both Spain and Colombia.",
+      "One of the most famous canals for international trade slices this nation in half."
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "hints": [
+      "Black, red, and yellow are among the colours of this nation's flag. ",
+      "12% of the languages on earth are found in the borders of this country.",
+      "Almost the entire population lives in rural areas, with a reliance on farming.",
+      "This nation shares its primary island with exactly one other country.",
+      "This nation gained independence in 1975 from Australia.",
+      "The name of this nation consists of three seperate words."
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "hints": [
+      "Red, white, and blue appear on this nation's national flag.",
+      "This country has a population of approximtely 7 million people.",
+      "This nation once lost nearly 70% of its population in a war with its neighbours.",
+      "Spanish and the Indigenous language Guarani are spoken by the majority of people here.",
+      "This nation is one of two on its continent to be landlocked from the sea.",
+      "Its capital city is Asunción, one of the oldest in South America."
+    ]
+  },
+  {
+    "country": "Peru",
+    "hints": [
+      "Red and white appear on this country's national flag.",
+      "Spanish, Quechua, and Aymara serve as the official languages of this nation. ",
+      "Nearly 90% of the global Alpaca population is housed within this country.",
+      "The famous Inca Empire was centered around the modern territory of this nation.",
+      "The popular tourist attraction of Machu Picchu is found in this nation.",
+      "This country's capital city is Lima, located on the Pacific coast."
+    ]
+  },
+  {
+    "country": "Philippines",
+    "hints": [
+      "This country is located on the eastern side of the Asian continent.",
+      "This nation is comprised of over 7,600 islands that span over the Pacific Ocean.",
+      "More than 110 million people live within this nation's borders.",
+      "This nation gained independence from the Spanish in 1898 and the United States in 1946.",
+      "Its capital city is Manila, one of the most densely populated in the world.",
+      "Filipino, a language rooted in Tagalog, is the official national tongue."
+    ]
+  },
+  {
+    "country": "Poland",
+    "hints": [
+      "White and red appear on this country's national flag.",
+      "Approximately 40 million people inhabit this nation.",
+      "The vast majority of the population practices Roman Catholicism as their religion.",
+      "Marie Curie, the first female Nobel Prize winner, was born in this nation.",
+      "This nation was famously invaded by the Germans in an event that triggered WW2.",
+      "This country's capital is Warsaw, a city rebuilt after wartime destruction."
+    ]
+  },
+  {
+    "country": "Portugal",
+    "hints": [
+      "A coat of arms is present on the flag of this nation.",
+      "Based off currently defined borders, this country is considered to be the oldest in Europe.",
+      "This nation was once a large empire, colonizing territories in South America, Africa, and Asia.",
+      "An expressive music style, nicknamed Fado, is rooted in the culture of this nation.",
+      "The capital city is Lisbon, one of the oldest cities in the world.",
+      "Famous footballer Cristiano Ronaldo (the goat?) was born in this country."
+    ]
+  },
+  {
+    "country": "Qatar",
+    "hints": [
+      "This tiny nation sits on the vast Asian continent.",
+      "Islam is the dominant religion practiced throughout this nation.",
+      "This country is one of the richest in the world thanks to large natural gas reserves.",
+      "The famous Al Jazeera media network is headquartered in this nation.",
+      "This country's capital city is the bustling metropolis of Doha.",
+      "This nation recently hosted the FIFA World Cup during the Winter of 2022."
+    ]
+  },
+  {
+    "country": "Republic of the Congo",
+    "hints": [
+      "Red, green, and yellow appear on this country's flag.",
+      "This African nation has a population of roughly 6 million people.",
+      "This country's capital was used by Free France following the German invasion in WW2.",
+      "This nation was home to a communist government from 1969 up until 1992.",
+      "This country is often confused for its much larger neighbour who shares a similar name.",
+      "Its capital city is Brazzaville, sitting across from the capital of the DRC."
+    ]
+  },
+  {
+    "country": "Romania",
+    "hints": [
+      "Red, blue, and yellow appear on this country's national flag.",
+      "This nation is famnous for its hundreds of castles built in defense against large empires.",
+      "The Carpathian Mountains arc dramatically through much of this country.",
+      "Transylvania, the legendary home of Dracula, lies within this nation.",
+      "This nation has a coastline on the western portion of the Black Sea.",
+      "Its capital city is Bucharest, which is also the largest city in the country."
+    ]
+  },
+  {
+    "country": "Russia",
+    "hints": [
+      "Red, white, and blue appear on this country's national flag.",
+      "The modern version of this country was formed in 1991 following the fall of the USSR.",
+      "The first human in space, named Yuri Gagarin, was sent by this nation.",
+      "This nation shares land borders with a record 14 other countries across two continents.",
+      "This country is the largest in the world, spanning over 17 million square kilometers.",
+      "Its capital city is Moscow, one of Europe's most populous cities."
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "hints": [
+      "This nation lies in the vast region of Sub Saharan Africa.",
+      "This country is home to roughly 14 million people packed into a tiny nation.",
+      "This country is notable for womens rights, with the majority of parliament being made up of females.",
+      "This nation famously banned plastic bags in 2008 to reduce waste buildup.",
+      "One of the most devestating genocides in human history occured here in the 1990's.",
+      "This country's capital is the bustling and growing city of Kigali."
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "hints": [
+      "The flag of this nation features more than one star.",
+      "This country was first discovered by Christopher Columbus back in 1493.",
+      "Alexander Hamilton was famously born in the territory of this island nation.",
+      "Fewer than 60,000 people call this place home.",
+      "This nation is made up of two distinct islands, seperated by a narrow channel.",
+      "Its capital city is the historic port town of Basseterre."
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "hints": [
+      "Blue dominates the backdrop of this country's national flag.",
+      "Two Nobel Prize winners in Economics and Literature have emerged from this nation.",
+      "This country is home to the twin volcanic peaks of Gros and Petit Piton.",
+      "This island nation sits in the caribbean near the coast of South America.",
+      "Approximtely 175,000 people inhabit this tiny island nation.",
+      "This country is the only in the world to be named after a historical woman."
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "hints": [
+      "Green, yellow, and blue appear on the flag of the nation.",
+      "This island nation used to be named Youloumain prior to European settlement.",
+      "Approximetely 112,000 people call this country their home.",
+      "This island nation sits in the caribbean ocean, close to the top of South America.",
+      "La Soufrière volcano is an active and famous volcano here, erupting recently in 2021.",
+      "Its capital city is the port town of Kingstown."
+    ]
+  },
+  {
+    "country": "Samoa",
+    "hints": [
+      "Red, white, and blue appear on this country's flag.",
+      "Christianity is enshrined in this nation's constitution as its foundation.",
+      "This island nation sits within the Pacific Ocean, very far from any major landmass.",
+      "This country's language uses just 14 letters, originating from the Latin alphabet.",
+      "This country is known internationally for its rugby team, which competes among the world's best.",
+      "Its capital city is Apia, located on the island of Upolu."
+    ]
+  },
+  {
+    "country": "San Marino",
+    "hints": [
+      "Blue and white appear on this country's national flag.",
+      "This country was founded back in 301 AD by a Christian Stonemason.",
+      "This nation is famous for having no official army; defense is handled externally.",
+      "Fewer than 40,000 people call this small nation home.",
+      "This nation is famous for being the lowest ranked amongst all FIFA members.",
+      "This nation is one of two to be completely surronded by the country of Italy."
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "hints": [
+      "Green and white appear on the flag of this nation.",
+      "This nation practices islam, which dominates the politics and culture of the country.",
+      "This country is dominated by large and uninhabited deserts, particularly in the south.",
+      "This nation is a member of the Gulf Cooperation Council",
+      "This nation has some of the largest oil reserves in the world, which drives its economy.",
+      "This country hosts the famous holy cities of Mecca and Medina, central in islamic culture."
+    ]
+  },
+  {
+    "country": "Senegal",
+    "hints": [
+      "Green, yellow, and red appear on this country's national flag.",
+      "This nation peacefully gained independence from French colonial rule in 1960.",
+      "Islam is practiced by the vast majority of people here.",
+      "This nation features the westernmost point on the African continent.",
+      "The neighbouring nation of Gambia is almost completely surronded by this country.",
+      "Its capital city, Dakar, sits on a peninsula in the Atlantic Ocean."
+    ]
+  },
+  {
+    "country": "Serbia",
+    "hints": [
+      "Red, white, and blue appear on this country's flag.",
+      "Orthodox Christianity is the dominant religion practiced here.",
+      "The famous Danube and Sava rivers intersect near the capital of the nation.",
+      "This nation was once part of the state of Yugoslavia, prior to the 1991 breakup.",
+      "Famous athletes Nikola Jokić and Novak Đoković were both born in this nation.",
+      "This country's capital city is the historic city of Belgrade."
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "hints": [
+      "This island nation sits in the vast Southerm Hemisphere.",
+      "This nation gained independence from the British in 1976.",
+      "This country is famous for its giant tortoises, with a population of over 100,000",
+      "This nation is the smallest in Africa by both landmass and population.",
+      "The flag of this nation features five distinct colours in an oblique pattern.",
+      "Aldabra Atoll, a UNESCO World Heritage site, lies within its territory."
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "hints": [
+      "Green, white, and blue appear on this country's flag.",
+      "English is the official language of this tropical nation.",
+      "Diamond mining drives a significant share of this nation's exports.",
+      "A recent and brutal 11 year civil war has shaped the modern politics of this nation.",
+      "This country shares its only land borders with Guinea and Liberia.",
+      "Its capital city is Freetown, founded as a home for freed enslaved people."
+    ]
+  },
+  {
+    "country": "Singapore",
+    "hints": [
+      "Red and white are the only colours on this nation's flag.",
+      "This nation gained independence from a fellow Asian country back in 1965.",
+      "This nation fits six million inhabits into an area of only 738 square kilometers.",
+      "This nation famouly banned chewing gum in an effort to improve cleanliness.",
+      "This country shares no land borders with any other nation.",
+      "This country's capital shares its exact name with the nation itself."
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "hints": [
+      "White, blue, and red appear on this country's national flag.",
+      "This country gained independence in 1993 folowing a peaceful dissolution of a larger nation.",
+      "No coastline borders this entirely landlocked European nation.",
+      "Roughly five and a half million people live in this country.",
+      "The Carpathian Mountains stretch across much of this country's territory.",
+      "This country's capital city is Bratislava, located beside the Danube River."
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "hints": [
+      "Red, white, and blue appear on this country's flag.",
+      "This country is almost entirely covered by forests, along with hosting over 14,000 caves.",
+      "This nation gained indepenence peacefully following the fall of Yugoslavia in 1991.",
+      "This country has a narrow coastline stretching just 47 kilometers in length.",
+      "This nation is often confused with the nearby nation of Slovakia.",
+      "Its capital city is Ljubljana, nestled beside a medieval castle."
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "hints": [
+      "Blue and green dominate the flag of this nation.",
+      "Melanesian Pidgin serves as the most widely spoken tongue here.",
+      "This nation is famous for being the site of many crucial battles during World War II.",
+      "Roughly 850,000 call this archipelagic nation their home.",
+      "This nation sits near the fellow island countries of Papua New Guinea and Australia.",
+      "Its capital city is Honiara, located on the large Guadalcanal Island."
+    ]
+  },
+  {
+    "country": "Somalia",
+    "hints": [
+      "Light blue and white appear on this country's national flag.",
+      "Sunni islam is dominant and practiced by the majority of the population here.",
+      "This nation has been engulfed in a series of civil wars since the 1980's.",
+      "This nation has a long history of Piracy occuring near its coastline.",
+      "No mainland African nation has a longer coastline than this one.",
+      "Its capital city is Mogadishu, situated on the Indian Ocean coast."
+    ]
+  },
+  {
+    "country": "South Africa",
+    "hints": [
+      "Six distinct colours are featured on the flag of the country.",
+      "Rugby union is a deeply celebrated sport in this nation.",
+      "This nation recognizes 12 official languages, including English and a sign language.",
+      "This country hosted the 2010 edition of the FIFA World Cup.",
+      "A policy of racial segregation called apartheid defined its twentieth-century history.",
+      "This country is the only in the world to have three distinct capital cities."
+    ]
+  },
+  {
+    "country": "South Korea",
+    "hints": [
+      "Red, white, blue, and black all appear on this country's flag.",
+      "Globally exported pop music from this nation captivates millions of fans worldwide.",
+      "This nation ranks among the highest in the world for education and innovation levels.",
+      "A heavily fortified demilitarized zone seperates this nation from its northern neighbour.",
+      "Technological giants such as Samsung and LG were born in this nation.",
+      "This country's capital is Seoul, a megacity home to over ten million people."
+    ]
+  },
+  {
+    "country": "South Sudan",
+    "hints": [
+      "Black, red, and green all appear on this country's flag.",
+      "This nation gained independence only after a prolonged civil war.",
+      "Entirely landlocked, this country has no access to the sea.",
+      "English is the official language used across this nation.",
+      "The world's newest country, it declared independence in 2011.",
+      "Its capital city is Juba, situated along the Nile."
+    ]
+  },
+  {
+    "country": "Spain",
+    "hints": [
+      "Red and yellow are the dominant colours on this country's flag.",
+      "Flamenco, a passionate dance form, originated in this nation.",
+      "This nation is the largest producer of Olive Oil in the world.",
+      "This nation was once a famous empire that conquered the majority of the Americas.",
+      "The young footballing sensation Lamine Yamal was born in this nation.",
+      "Its capital city is Madrid, home to over three million residents."
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "hints": [
+      "A tropical climate covers most of this nation's territory.",
+      "Buddhism is the most widely practiced religion in this nation.",
+      "This nation sits on its own island, surronded by a large ocean",
+      "This country used to be called Ceylon, during its time under British rule",
+      "This nation is often nicknamed as The Teardrop Of India.",
+      "Its capital city is Sri Jayawardenepura Kotte, located near Colombo."
+    ]
+  },
+  {
+    "country": "Sudan",
+    "hints": [
+      "Red, white, and black appear on this country's national flag.",
+      "Islam is the officially recognized state religion here.",
+      "This nation has more pyramids than any other country in the world.",
+      "This nation is currently dealing with a brutal civil war, displacing millions.",
+      "This country's capital city is Khartoum, situated on the Nile.",
+      "A secession in 2011 split this country into two parts, creating a new southern neighbour."
+    ]
+  },
+  {
+    "country": "Suriname",
+    "hints": [
+      "Green is a dominant colour on this nation's flag.",
+      "This nation gained independence from dutch colonial rule back in 1975.",
+      "This nation is the smallest sovereign state on its continent.",
+      "No ethnicity dominates this country - mix of Chinese, Indigenous, Creole, and other groups.",
+      "Over ninety percent of this country's land is dense rainforest.",
+      "Its capital city is the historic port town of Paramaribo."
+    ]
+  },
+  {
+    "country": "Sweden",
+    "hints": [
+      "Blue dominates the background of this country's national flag.",
+      "This European nation was one of few to remain neutral during WW2.",
+      "This country consistently ranks near the top for global happiness and safety.",
+      "Viking seafarers are central to this nation's founding mythology.",
+      "The Nobel Prize ceremony takes place in this country each December.",
+      "This country is the birthplace of the famous furniture conglomerate IKEA."
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "hints": [
+      "Red and white are the only colours on this country's flag.",
+      "This country is landlocked and sits deep within its respective continent.",
+      "This country has four official languages - German, French, Italian, and Romansh.",
+      "This nation is often nicknamed as the Chocolate Capital Of The World.",
+      "The Alps dominate much of this country's dramatic terrain.",
+      "Its capital city is Bern, home to a medieval old town."
+    ]
+  },
+  {
+    "country": "Syria",
+    "hints": [
+      "Red, white, and black appear on this country's flag.",
+      "One of the oldest civilizations in history was centered around this nation.",
+      "This nation gained independence from French colonial rule back in 1946.",
+      "The famous Euphrates River runs through the heart of this country, supplying key water.",
+      "A famous civil war erupting in 2011 is ongoing to the present day.",
+      "Its capital city is Damascus, among the world's oldest inhabited cities."
+    ]
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "hints": [
+      "Green, yellow, and red appear together on this nation's flag.",
+      "This country sits directly on the equator, occupying both hemispheres.",
+      "This nation gained independence from Portugese colonial rule in 1975.",
+      "A population of 220,000 makes this the second least-populated of its continent.",
+      "Cacao has historically been this nation's most significant export crop.",
+      "The name of this nation consists of four distinct words."
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "hints": [
+      "Red, blue, and white all appear on this nation's flag.",
+      "Approximetely 23 million people live within its borders.",
+      "Semiconductor manufacturing here supplies much of the world's electronics.",
+      "Surrounded entirely by ocean, this nation exists as an island territory.",
+      "This nation's sovereignty is disputed by China, with the two having tense political relations.",
+      "Its capital city is Taipei, a bustling modern metropolis."
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "hints": [
+      "Red, green and white appear on the flag of this nation.",
+      "Ancient Silk Road trade routes once passed through the heart of this land.",
+      "Almost the entire country is covered by the massive Pamir mountain range.",
+      "The official language of this nation is a dialect of Persian.",
+      "This nation is landlocked, with almost all of it's neighbours also being landlocked.",
+      "This country's capital city is Dushanbe, its largest urban center."
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "hints": [
+      "This nation is one of many to sit in the vast region of Sub-Saharan Africa.",
+      "English and Swahili are the official languages of this country.",
+      "Over 60 million people live in this land, making it one of Africa's most populated.",
+      "The island of Zanzibar is owned by this nation, whom merged with the mainland in 1964.",
+      "This nation is home to the famous Mount Kilimanjaro, the tallest in all of Africa.",
+      "Its capital city is Dodoma, moved there from the coast."
+    ]
+  },
+  {
+    "country": "Thailand",
+    "hints": [
+      "Red, white, and blue appear on this country's flag.",
+      "Buddhism is the dominant religion practiced across this nation.",
+      "No European power ever colonized this country throughout its history.",
+      "This nation is a constitutional monarchy, ruled by Maha Vajiralongkorn.",
+      "This country used to be known more popularly as Siam, which is it's ancient name",
+      "Its capital city is Bangkok, known locally as Krung Thep."
+    ]
+  },
+  {
+    "country": "Timor-Leste",
+    "hints": [
+      "Red is the dominant colour on the flag of this Asian nation.",
+      "This nation was the first to gain independence in the 21st century - May of 2002.",
+      "Catholicism is the dominant religion practised by most residents.",
+      "This nation shares its island with one other, far larger Asian nation.",
+      "This nation is the only in Asia where Portugese is a dominant language.",
+      "Its capital city is Dili, on the northern coast."
+    ]
+  },
+  {
+    "country": "Togo",
+    "hints": [
+      "Green, yellow, and red all appear on this country's flag.",
+      "This country gained independence from French colonial rule in 1960.",
+      "This nation is very elongated, being only 115km wide but far larger in height.",
+      "Voodoo traditions are an integral part of the culture here.",
+      "The name of this country translates to On The Other Side Of The River.",
+      "This country's capital is Lomé, a city situated on the Gulf of Guinea."
+    ]
+  },
+  {
+    "country": "Tonga",
+    "hints": [
+      "Red features prominently on this nation's distinctive national flag.",
+      "Approximetely 105,000 people call this island nation their home.",
+      "This is the only Pacific nation to have never been colonized by a foreign power.",
+      "This nation sits very close to the International Date Line.",
+      "This nation is a constitutional monarchy, with King Tupou VI as the head.",
+      "Its capital city is Nukualofa, situated on the island of Tongatapu."
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "hints": [
+      "Red, black and white appear on this country's flag.",
+      "This nation gained independence from the British in 1962, with English being the main language.",
+      "This nation consists of two twin islands, one being far larger than the other.",
+      "The limbo dance, Calypso music, and Soca were all born in this island nation.",
+      "This country sits just a few kilometers off the shoreline of Venezuela.",
+      "The capital is Port of Spain, in reference to its colonial rule by the Spanish Empire."
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "hints": [
+      "Red and white appear are the two colours on this country's flag.",
+      "Roughly 12 million people live within this country's borders.",
+      "Many Star Wars films were filmed using towns located in this nation.",
+      "The Jasmine Revolution, which kickstarted the Arab Spring, took place in this country.",
+      "Ancient Carthage, a great Mediterranean power, was centered around this nation.",
+      "Its capital city is the storied northern city of Tunis."
+    ]
+  },
+  {
+    "country": "Turkey",
+    "hints": [
+      "Red and white appear on the flag of this nation.",
+      "This nation has been a NATO member since 1952.",
+      "This nation is one of few in the world to span two continents.",
+      "This country's capital city is Ankara, though this is not its most popular city.",
+      "Kebabs and Baklava are culinary exports tied heavily to this nation.",
+      "This country shares its name with a large type of bird."
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "hints": [
+      "Green is the dominant colour on this country's flag.",
+      "This landlocked country sits nestled within the Asian mainland.",
+      "This nation is classified as a dictatorship, with one family in rule for generations.",
+      "This country has some of the largest natural gas reserves in the world.",
+      "A burning gas crater here is widely nicknamed the Door To Hell, a popular tourist attraction.",
+      "Its capital city is Ashgabat, famed for its white marble buildings."
+    ]
+  },
+  {
+    "country": "Tuvalu",
+    "hints": [
+      "Blue features prominently on this nation's national flag.",
+      "Fewer than 15,000 people call this small nation their home.",
+      "This nation lies entirely within the tropical Pacific Ocean.",
+      "This nation generates a significant revenue off selling its internet domain .tv",
+      "Rising sea levels threaten to completely submerge this low-lying atoll nation.",
+      "Its capital city is Funafuti, situated on a coral atoll."
+    ]
+  },
+  {
+    "country": "Uganda",
+    "hints": [
+      "Black, yellow, and red appear on this nation's flag.",
+      "This nation has been led by a single dictator since the year 1986.",
+      "Nearly 50 million inhabit this nation, despite its reltively small landmass.",
+      "More than half the world's mountain gorillas live within its borders.",
+      "The White Nile River can trace its origins to lakes within this country.",
+      "This country's capital is the bustling lakeside city of Kampala."
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "hints": [
+      "Two coloured and horizontal stripes make up this nation's flag.",
+      "This nation has a population of approximetely 35 million people.",
+      "This country has its only coastline located on the Black Sea",
+      "This country is often nicknamed The Breadbasket of Europe for its grain production.",
+      "The infamous Chernobyl nuclear disaster occured at a power plant in this nation's territory.",
+      "This nation has been involved in an ongoing conflict with the Russians since 2014."
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "hints": [
+      "Red, white, black, and green all appear on this country's flag.",
+      "The majority of this nation's territory is covered by deserts and sand dunes.",
+      "This country operates as a federation of monarchies, with several rulers.",
+      "This nation uses the Dirham as their official currency.",
+      "The tallest building in the world can be found within this country.",
+      "The famous and ultramodern city of Dubai is located in this country."
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "hints": [
+      "Red, white, and blue all appear on this country's flag.",
+      "Nearly 70 million people live in this country.",
+      "Despite being European, this country is not a member of the European Union.",
+      "This nation is known for its cloudy and often rainy weather, particularly in the spring.",
+      "Association football, tennis, cricket, and rugby were all born from this nation.",
+      "The capital city is London, one of the most famous cities in the world."
+    ]
+  },
+  {
+    "country": "United States",
+    "hints": [
+      "Red, white, and blue appear on this country's national flag.",
+      "English is the dominant language spoken across this nation.",
+      "This nation gained independence in the 18th century through a famous revolution.",
+      "No other country has accumulated more national debt than this nation.",
+      "Hollywood and its global film industry are synonymous with this country.",
+      "New York, Los Angeles, and Miami are all famous cities belonging to this nation."
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "hints": [
+      "This country is one of many to feature a sun on their national flag.",
+      "This country has the longest national anthem in the world, lasting for over five minutes.",
+      "This nation is the second smallest on its continent, surronded by much larger nations.",
+      "Same-sex marriage was legalized here in 2013, the first country to do so in South America.",
+      "This country's capital is the vibrant coastal city of Montevideo.",
+      "This nation both hosted and won the first edition of the FIFA World Cup back in 1930."
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "hints": [
+      "Blue, white, and green appear prominently on this country's flag.",
+      "Sunni islam is practiced by the majority of citizens.",
+      "Several wealthy hubs of the Silk Road Era such as Samarkand and Bukhara can be found here.",
+      "Palov, a dish consisting of rice, onions, and carrots, is a famous national dish.",
+      "This nation is one of two in the world to be doubly landlocked.",
+      "Its capital city is Tashkent, which is the largest in Central Asia."
+    ]
+  },
+  {
+    "country": "Vanuatu",
+    "hints": [
+      "Red and green dominate the flag of this nation.",
+      "This nation gained independence in 1980 from joint British and French colonial rule.",
+      "Bungee Jumping traces its roots to ancient land diving practices in this nation.",
+      "Kava ceremonies are a deeply rooted cultural tradition celebrated here.",
+      "This country is an archipelago of 83 islands situated in the Pacific Ocean",
+      "Its capital city is Port Vila, nestled on Efate Island."
+    ]
+  },
+  {
+    "country": "Vatican City",
+    "hints": [
+      "Yellow and white appear on this country's national flag.",
+      "This nation gained independence from a fellow European country in 1929.",
+      "A small and elite task force was founded to defend this nation in the 1500's.",
+      "Famous works such as the Sistine Chapel and Pietà can be found here.",
+      "This nation is the smallest in the world by both population and landmass.",
+      "The Pope, the head of the Catholic Church, rules over this state."
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "hints": [
+      "Red, yellow, and blue appear on this country's national flag.",
+      "Large crude oil reserves have shaped the economy of this country for decades.",
+      "Baseball is the most popular sport in this country, with many atheletes in the MLB.",
+      "A long Caribbean coastline stretches along this country's northern edge.",
+      "This country experienced a brutal and famous case of hyperinflation in the late 2010's.",
+      "This country's capital city is the sprawling metropolis of Caracas."
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "hints": [
+      "Red dominates the flag of this nation.",
+      "This nation is second to only Brazil in the world for coffee exports and production.",
+      "This country is known for being shaped similarly to the letter S.",
+      "Nearly 40% of all citizens share the same surname, which begins with N.",
+      "A devestating civil war between North and South during the Cold War took place here.",
+      "This country's capital is Hanoi, a city of historic significance."
+    ]
+  },
+  {
+    "country": "Yemen",
+    "hints": [
+      "Red, white, and black appear on this country's flag.",
+      "Arabic is the official language spoken across this arid nation.",
+      "Roughly 35 million people call this nation their home.",
+      "The famous tradition of chewing Khat, a leafy plant, is integral to the culture here.",
+      "This country has been engulfed in a devastating civil war since the year 2014.",
+      "This country's capital is Sana'a, one of the oldest inhabited cities on Earth."
+    ]
+  },
+  {
+    "country": "Zambia",
+    "hints": [
+      "Green is the dominant colour on this country's flag.",
+      "This country is landlocked, though borders an impressive eight other countries",
+      "The majority of the country practices christianity as their religion.",
+      "This nation is famous for their copper and cobalt exports, which drive the economy.",
+      "Victoria Falls, one of the world's greatest waterfalls, lies on its border.",
+      "Its capital city is Lusaka, home to over two million people."
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "hints": [
+      "Green features prominently on this nation's flag.",
+      "This country gained independence from British colonial rule back in 1980.",
+      "This nation is recognized for having 16 national languages, including English.",
+      "This country replaced their currency with gold in 2024 to combat hyperinflation.",
+      "Victoria Falls, one of the Seven Natural Wonders of the World, lies here.",
+      "When arranged in alphabetical order, this nation comes last in the world."
+    ]
+  }
+  
+]

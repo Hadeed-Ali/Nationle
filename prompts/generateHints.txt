@@ -1,0 +1,86 @@
+OVERVIEW: This was the prompt initially given to Claude to generate the initial hints for all nations, which were eventually modified manually
+
+PROMPT:
+You are writing puzzle clues for "Nationle", a daily geography guessing game where players identify a country from 6 hints which can be revealed one at a time by the user. The hints start vague and become more specific overtime.
+
+Your task: Generate exactly 6 hints for {{COUNTRY}}.
+
+ONE FACT PER HINT — this is a non-negotiable rule:
+  Each hint must state exactly one piece of information. Never combine two facts into a single hint using "and", "while", "also", or any conjunction. "It has a coastline and borders five countries" is two facts — that is a violation. Split them across two separate hints. This rule applies to every hint, including hint 2.
+
+DIFFICULTY CURVE — read this carefully:
+  Hint 1 — Extremely vague. One broad fact: a flag color shared by many nations, hemisphere (Northern/Southern), or a vast continental region (e.g. "sub-Saharan Africa", "Southeast Asia"). This hint alone must fit 8–15 countries.
+  Hint 2 — One fact from a completely different category. Combined with hint 1, the two together should narrow to roughly 5–10 countries. Do not pack two facts here — one is enough.
+  Hint 3 — One fact from a third category (different from hints 1 and 2). This hint must actively eliminate candidates: after applying hint 3, the remaining countries should be roughly half the number left after hint 2. If your hint 3 doesn't cut the field, it is too weak — replace it with something more discriminating.
+  Hint 4 — A more specific identifier. Combined with hints 1–3, narrows to 2–4 countries. This hint should NOT yet uniquely identify the country — if it does, it is too strong and belongs at hint 5.
+  Hint 5 — Near-definitive. A knowledgeable player will likely identify the country now. Narrows to 1–2 countries. This is the right place for a country's most distinctive well-known fact.
+  Hint 6 — Always a full sentence that reveals the capital city. Format: "This country's capital is X." or "Its capital city is X." Never state the capital as a bare word — always frame it in a complete sentence with exposition.
+
+STRICT RULES (violating any of these is a failure):
+  1. Each hint is one sentence of 8–13 words. Count the words before returning. If a hint is under 8 or over 13, rewrite it. No exceptions, including hint 6.
+  2. Every hint must be a full, natural English sentence — never a bare fragment or label. Write "This country has a population of roughly 26 million people" not "Population of 26 million." The sentence should read naturally if spoken aloud.
+  3. Lead with the fact, not "this country." Prefer constructions that open with the interesting detail: "Green and yellow dominate this country's flag." / "Carnival and samba are exports the world associates with this nation." / "Fewer than 40,000 people call this place home." / "A Romance language is spoken here as the official tongue." Reserve "This country is/has" for hints where no better construction exists — and never use it more than twice across all 6 hints.
+  4. Never name the country in any hint, not even a partial name.
+  5. Never use demonyms. Do not write "French", "German", "Nigerian", "American", or any other adjective derived from a country name. Describe the thing instead: not "French cuisine" but "cuisine here is known for its wine and cheese traditions".
+  6. No hint may contradict any other hint.
+  7. Each hint must provide new information not implied or redundant with earlier hints.
+  8. Every fact must be accurate as of 2025. When stating rankings or superlatives, be precise — do not say "top 10 by land area" if the country is actually 13th. When in doubt, state the concrete fact instead of the ranking: "covers roughly 8.5 million square kilometres" beats "one of the ten largest."
+  9. Early hints must be deliberately vague — if a single hint would narrow to fewer countries than its target range, broaden it.
+  10. At least 2 of the 6 hints must come from cultural/historical categories: founding mythology, a cultural export the country is famous for (food, music, sport, art), a significant historical event, a distinctive political or legal fact, or a famous landmark or architectural feature. These must be spread across the puzzle — do not stack both cultural hints at position 4 and 5. Place at least one cultural or historical hint at position 2 or 3.
+  11. Hints should be entertaining and provide a genuine sense of challenge and discovery — not just dry facts. A good hint makes the player think, not just recall a statistic.
+
+CATEGORIES TO DRAW FROM (use variety across the 6 hints, don't repeat a category):
+  - Flag colors or symbols (hint 1 only — keep vague, must fit many countries)
+  - Hemisphere or continental region (hint 1 only)
+  - Landlocked vs. coastal (one fact only — not combined with border count)
+  - Climate zone (tropical, arid, temperate, polar)
+  - Approximate population (e.g., "fewer than 1 million people", "over 100 million people")
+  - Dominant religion or religious mix
+  - Official language or language family — STRONGLY ENCOURAGED for hints 2–4. Language family (e.g. "a Slavic language", "a Romance language") is broad enough for hint 2; a specific distinctive language is better for hint 3–4.
+  - Major geographic feature (mountain range, river basin, island nation, peninsula)
+  - Notable export or economic activity
+  - GDP per capita tier (e.g., "one of the wealthiest per capita in the world", "a low-income economy")
+  - Significant sporting history (FIFA World Cup wins/performances, Olympic achievements, hosting major events)
+  - International membership (ASEAN, EU, NATO, GCC, OPEC, African Union, etc.)
+  - Number of land borders (stated alone)
+  - Shares a border with a specific named country (stated alone)
+  - Founding mythology or origin story
+  - Cultural export the country is globally known for (cuisine, music genre, sport, art movement)
+  - Significant historical event (war, revolution, independence moment, discovery)
+  - Distinctive political or legal fact (form of government, constitutional quirk, unique legal system)
+  - Famous landmark or architectural feature
+  - Capital city (hint 6 only — always a full sentence)
+
+ANTI-PATTERNS — never do these:
+  - Compound hints: "It has a coastline and borders five countries" — two facts, split them.
+  - Superlatives in hints 1–3: "the largest", "the only", "the world's first" narrow too fast. Save superlatives for hints 4–5.
+  - Inaccurate superlatives: if you state a ranking, verify it is correct. "Among the top 10 by land area" is wrong if the country is 13th — say the area in square kilometres instead.
+  - Unique landmarks too early: a specific named mountain, river, building, or feature belongs in hints 4–5, not earlier.
+  - Unique language too early: if a country is the only or near-only speaker of a language, that belongs in hints 4–5. Language family (broad) is fine for hints 2–3.
+  - Hint 1 too narrow: if hint 1 alone fits fewer than 8 countries, rewrite it.
+  - Hint 3 that doesn't eliminate: if hint 3 just confirms what hints 1–2 implied, replace it.
+  - Funnel collapsing too early: if hints 1–4 together uniquely identify the country, hint 4 is too strong.
+  - All demographic/geographic hints: if all 6 hints are population, location, coastline, economy — the puzzle is dull. Ensure at least 2 hints are cultural or historical.
+  - Monotone phrasing: more than two hints starting with "This country is" or "This country has" is a failure. Rewrite until phrasing is varied.
+  - All cultural hints at the end: if hints 1–3 are pure geography/demographics and hints 4–5 are where all the interesting facts live, redistribute — move one cultural hint into position 2 or 3.
+
+SELF-CHECK before returning — verify all six:
+  ✓ Hint 1 alone fits at least 8 different countries (if not, broaden it).
+  ✓ Every hint states exactly one fact — no compound sentences.
+  ✓ Hints 1 through 5 each draw from a different category — no category repeated.
+  ✓ At least 1 cultural or historical hint appears at position 2 or 3 — not just at 4 and 5.
+  ✓ No more than 2 hints start with "This country is" or "This country has."
+  ✓ Every hint is 8–13 words. Count each one.
+
+Return ONLY valid JSON, no explanation, no markdown, no other text:
+{
+  "country": "{{COUNTRY}}",
+  "hints": [
+    "Hint one here.",
+    "Hint two here.",
+    "Hint three here.",
+    "Hint four here.",
+    "Hint five here.",
+    "Hint six here."
+  ]
+}
