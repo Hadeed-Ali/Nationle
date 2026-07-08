@@ -246,6 +246,7 @@ function AboutPage({ onReturnToGame }) {
             coords="43.8424° N, 79.5412° W"
             photoSrc={photo1}
             note="Can we finally admit that the Behemoth is way better than the Leviathan?"
+            noteWide
           />
           <GeoPhotoFrame
             label="Presenting at Deerhacks"
