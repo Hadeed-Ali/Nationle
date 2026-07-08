@@ -4,14 +4,14 @@ import logo from '../photos/NationleLogo.png';
 // Creating the various strings / blurbs that appear under the name of the game as a daily message
 // Focused on creating messags that are 1-2 sentences, easy to read, catchy, and reference a game feature if possible
 const BLURBS = [
-  "Guess the mystery country from geographic hints. A new challenge awaits every day.",
-  "196 countries in the world, and just one to find today.",
-  "The sharper you are, the higher your score. Can you get a perfect 100?",
-  "Geography meets detective work. Uncover today's country, one hint at a time.",
-  "It is you against the globe. How strong is your knowledge of the world?",
+  "196 countries across the world, and just one to find today.",
+  "Inspired by Wordle, yet forging a path of its own. Welcome to Nationle!",
+  "The perfect score of 100 is achieved only by legends. Can you be next?",
   "From languages to capitals, the hints are your guiding light. Good luck.",
-  "A treat for geography lovers across the world. Embrace your passion.",
-  "Inspired by Wordle, yet forging a path of its own. Welcome to Nationle."
+  "It is you against the nations of the world. Do you have what it takes?",
+  "Some say this game is too challenging. Can you prove them wrong?",
+  "Each guess and hint slowly drain you score. Don't lose your head!",
+  "We highly discourage cheating, unless it is a random pacific island nation."
 ];
 
 function IntroScreen({ puzzleNumber, onPlay }) {
