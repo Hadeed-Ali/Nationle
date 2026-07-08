@@ -1,7 +1,7 @@
 const STORAGE_KEY = 'nationle_stats';
 
 // Date in which the first puzzle was publicly aired --> marks the date for Puzzle #1
-const LAUNCH_DATE = '2026-07-08';
+const LAUNCH_DATE = '2026-07-09';
 
 // Highest puzzle number that still counts as "initial launch" for the Beta
 const BETA_CUTOFF_PUZZLE = 30;
