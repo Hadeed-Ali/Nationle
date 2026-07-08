@@ -4,7 +4,6 @@
 
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { getDailyPuzzle } from '../utils/schedule';
-import { BETA_LABEL } from '../utils/stats';
 
 // Importing all countries within the Nationle experience and their relevant information such as aliases and abbreviations
 import countries from '../data/countries.json';
@@ -221,7 +220,7 @@ function GameBoard({ onGameEnd, puzzleNumber, hardcore = false, autofill = true 
 
       {/* Puzzle header, which includes the number of the puzzle, date, and whether or not hardcore mode is activated */}
       <div className="gameboard__meta">
-        <span className="gameboard__meta-puzzle">{BETA_LABEL}</span>
+        <span className="gameboard__meta-puzzle">Puzzle #{puzzleNumber}</span>
         <span className="gameboard__meta-sep">·</span>
         <span className="gameboard__meta-date">{TODAY}</span>
         {hardcore && (

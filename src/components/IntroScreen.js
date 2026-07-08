@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import logo from '../photos/NationleLogo.png';
-import { BETA_LABEL } from '../utils/stats';
 
 // Creating the various strings / blurbs that appear under the name of the game as a daily message
 // Focused on creating messags that are 1-2 sentences, easy to read, catchy, and reference a game feature if possible
@@ -69,7 +68,7 @@ function IntroScreen({ puzzleNumber, onPlay }) {
         {/* Bottom section - puzzle number, creator, and a footnote that the game is best played on a computer/desktop */}
         <div className="intro__meta">
           <span className="intro__meta-date">{today}</span>
-          <span className="intro__meta-puzzle">{BETA_LABEL}</span>
+          <span className="intro__meta-puzzle">Puzzle #{puzzleNumber}</span>
           <span className="intro__meta-creator">Crafted by Hadeed Ali</span>
         </div>
 

@@ -23,10 +23,7 @@ function seededShuffle(arr, seed) {
 
 // Changing this seed changes every puzzle day — only do so before launch
 const SCHEDULE_SEED = 0xd3adb33f;
-const schedule = seededShuffle(puzzles, SCHEDULE_SEED);
-
-// Used to force a specific country for the daily puzzle - used for testing prior to deployment
-const DEV_COUNTRY = 'Portugal';
+const schedule = seededShuffle(puzzles, SCHEDULE_SEED)
 
 // Hand-picked countries for the launch week (puzzles 1–7).
 // Countries are specifically picked based on their coverage, quality of hints, playability, and difficulty
@@ -43,11 +40,6 @@ const LAUNCH_WEEK = [
 
 // Function to obtain the country, associated hints, potential aliases, and all relevant information to format the daily puzzle
 export function getDailyPuzzle(puzzleNumber) {
-  if (DEV_COUNTRY) {
-    const entry = schedule.find(p => p.country === DEV_COUNTRY) ?? schedule[(puzzleNumber - 1) % schedule.length];
-    return { country: entry.country, hints: entry.hints, aliases: aliasMap[entry.country] || [] };
-  }
-
   if (puzzleNumber >= 1 && puzzleNumber <= LAUNCH_WEEK.length) {
     const name  = LAUNCH_WEEK[puzzleNumber - 1];
     const entry = schedule.find(p => p.country === name);

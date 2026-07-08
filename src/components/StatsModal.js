@@ -3,7 +3,7 @@
 // Includes some of the more logic heavy and crucial functions for the Nationle experience
 
 import React, { useState } from 'react';
-import { loadStats, BUCKET_LABELS, BUCKET_GRADES, scoreToBucket, getPuzzleNumber, BETA_LABEL } from '../utils/stats';
+import { loadStats, BUCKET_LABELS, BUCKET_GRADES, scoreToBucket, getPuzzleNumber } from '../utils/stats';
 import { MapPin } from './icons';
 
 const PUZZLE_NUMBER = getPuzzleNumber();
@@ -49,7 +49,7 @@ function StatsModal({ onClose, lastResult }) {
     const pts     = lastResult?.points    ?? todayEntry?.points    ?? '?';
     const hints   = lastResult?.hintsUsed  ?? todayEntry?.hintsUsed  ?? '?';
     const guesses = lastResult?.guessCount ?? todayEntry?.guessCount ?? '?';
-    const text = `Nationle ${BETA_LABEL} 🌍 | Score: ${pts}pts | Hints: ${hints}, Guesses: ${guesses} | https://nationle.vercel.app/`;
+    const text = `Nationle Puzzle #${PUZZLE_NUMBER} 🌍 | Score: ${pts}pts | Hints: ${hints}, Guesses: ${guesses} | https://nationle.vercel.app/`;
 
     // Upon completion, setCopied is set to True so the button can be changed to "Copied to clipboard!", appearing for 2000ms / 2 seconds
     navigator.clipboard?.writeText(text);
