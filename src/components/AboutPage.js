@@ -245,7 +245,7 @@ function AboutPage({ onReturnToGame }) {
             label="Canada's Wonderland Trip"
             coords="43.8424° N, 79.5412° W"
             photoSrc={photo1}
-            note="I promise you that WindSeeker is the scariest ride at the whole park."
+            note="Can we finally admit that the Behemoth is way better than the Leviathan?"
           />
           <GeoPhotoFrame
             label="Presenting at Deerhacks"
